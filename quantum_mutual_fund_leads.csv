@@ -1,0 +1,801 @@
+customer_id,age,gender,annual_income,occupation,education,marital_status,city_tier,existing_investment_amount,number_of_dependents,risk_appetite,credit_score,customer_tenure_months,app_usage_minutes_per_week,marketing_calls_received,email_open_rate,past_sip_holder,invested
+QMF00001,60,Male,824000,Self-Employed,Graduate,Married,Tier-2,612000,1,Medium,647,6,33,3,0.447,0,1
+QMF00002,50,Male,399000,Salaried,Graduate,Single,Tier-1,102000,2,High,692,23,30,4,0.481,0,1
+QMF00003,36,Female,280000,Salaried,Graduate,Married,Tier-1,305000,0,High,753,10,15,3,0.132,0,0
+QMF00004,64,Male,970000,Retired,Graduate,Married,Tier-2,200000,0,High,716,51,100,3,0.225,0,1
+QMF00005,29,Male,399000,Salaried,Post-Graduate,Single,Tier-1,104000,0,Low,722,19,42,4,0.793,0,0
+QMF00006,42,Male,659000,Retired,Graduate,Married,Tier-1,128000,0,High,483,51,9,4,0.319,0,0
+QMF00007,60,Male,273000,Salaried,Graduate,Single,Tier-3,22000,1,Medium,550,68,50,3,0.259,0,0
+QMF00008,40,Male,371000,Salaried,Graduate,Married,Tier-2,416000,3,Low,616,42,25,1,0.136,0,0
+QMF00009,44,Female,183000,Salaried,Post-Graduate,Married,Tier-1,65000,2,Low,629,57,33,2,0.677,1,1
+QMF00010,32,Male,512000,Salaried,High School,Married,Tier-3,89000,2,Low,747,68,54,0,0.15,0,0
+QMF00011,32,Male,402000,Retired,Post-Graduate,Married,Tier-3,167000,2,Low,609,38,90,3,0.247,1,1
+QMF00012,45,Male,221000,Salaried,Post-Graduate,Married,Tier-2,61000,1,Medium,733,62,48,3,0.084,0,0
+QMF00013,57,Male,223000,Salaried,Graduate,Single,Tier-2,44000,3,High,617,7,23,1,0.291,0,0
+QMF00014,61,Female,881000,Salaried,Post-Graduate,Single,Tier-3,150000,0,Medium,583,71,29,2,0.269,1,1
+QMF00015,45,Male,1071000,Salaried,Graduate,Single,Tier-3,4000,1,Medium,587,50,64,4,0.305,1,1
+QMF00016,24,Female,322000,Salaried,Graduate,Married,Tier-2,191000,2,High,860,52,0,2,0.353,1,1
+QMF00017,43,Female,376000,Salaried,Post-Graduate,Married,Tier-1,108000,0,Low,615,26,13,5,0.117,0,0
+QMF00018,23,Male,451000,Business,High School,Married,Tier-2,140000,2,High,735,26,51,4,0.091,0,1
+QMF00019,45,Female,393000,Salaried,Graduate,Married,Tier-2,150000,1,Medium,555,19,0,3,0.375,1,0
+QMF00020,65,Male,180000,Salaried,Post-Graduate,Single,Tier-1,112000,2,Medium,793,9,35,3,0.569,0,1
+QMF00021,51,Female,458000,Salaried,Post-Graduate,Married,Tier-1,131000,1,Low,707,61,30,4,0.741,1,0
+QMF00022,59,Male,180000,Salaried,Graduate,Married,Tier-3,173000,0,Medium,701,20,71,3,0.281,0,0
+QMF00023,23,Female,242000,Retired,Graduate,Married,Tier-2,210000,2,Low,713,50,37,2,0.575,1,0
+QMF00024,42,Male,478000,Salaried,Graduate,Single,Tier-1,195000,1,Medium,721,22,80,6,0.237,1,0
+QMF00025,54,Male,504000,Salaried,Graduate,Married,Tier-2,306000,1,Low,744,13,47,1,0.858,0,0
+QMF00026,33,Male,232000,Self-Employed,Graduate,Married,Tier-1,32000,0,High,632,12,98,3,0.427,0,0
+QMF00027,43,Female,281000,Salaried,Graduate,Married,Tier-1,77000,2,Medium,627,10,3,2,0.394,0,0
+QMF00028,65,Female,261000,Salaried,Graduate,Married,Tier-2,443000,2,Low,683,65,93,4,0.575,0,0
+QMF00029,46,Female,342000,Retired,Post-Graduate,Married,Tier-1,76000,1,Medium,734,30,32,2,0.404,0,0
+QMF00030,48,Male,357000,Business,Post-Graduate,Married,Tier-1,20000,4,Low,674,8,89,3,0.449,0,1
+QMF00031,63,Female,523000,Retired,High School,Single,Tier-3,112000,3,Medium,741,21,80,2,0.448,1,1
+QMF00032,49,Male,273000,Salaried,Graduate,Married,Tier-1,17000,2,High,729,22,0,2,0.911,1,1
+QMF00033,37,Male,445000,Salaried,Post-Graduate,Single,Tier-1,34000,2,Medium,662,18,59,3,0.57,0,0
+QMF00034,36,Male,479000,Salaried,High School,Single,Tier-3,958000,1,Low,540,66,74,3,0.568,0,1
+QMF00035,65,Female,404000,Salaried,Post-Graduate,Single,Tier-2,117000,2,Medium,639,48,84,4,0.177,1,0
+QMF00036,24,Male,314000,Business,Graduate,Married,Tier-2,50000,0,Medium,819,44,9,4,0.089,1,1
+QMF00037,58,Male,400000,Salaried,Post-Graduate,Married,Tier-3,788000,0,High,707,9,62,2,0.681,1,1
+QMF00038,28,Female,548000,Business,Graduate,Married,Tier-1,510000,4,Low,628,67,50,2,0.263,0,0
+QMF00039,42,Male,575000,Self-Employed,Graduate,Single,Tier-2,87000,2,Medium,700,54,57,4,0.94,1,1
+QMF00040,30,Male,983000,Salaried,Post-Graduate,Married,Tier-2,45000,1,Medium,734,26,74,2,0.18,0,1
+QMF00041,60,Male,210000,Salaried,Post-Graduate,Single,Tier-3,273000,1,Low,628,26,79,2,0.136,1,0
+QMF00042,39,Male,284000,Self-Employed,Graduate,Married,Tier-2,189000,2,Low,778,34,25,8,0.643,1,0
+QMF00043,25,Male,180000,Salaried,High School,Married,Tier-2,174000,0,Medium,719,8,52,3,0.304,1,0
+QMF00044,46,Male,604000,Business,Post-Graduate,Married,Tier-2,335000,0,High,592,10,46,3,0.258,0,1
+QMF00045,35,Female,301000,Salaried,Graduate,Married,Tier-2,175000,0,High,748,48,37,4,0.414,1,1
+QMF00046,30,Male,406000,Salaried,High School,Married,Tier-2,50000,1,Medium,647,55,40,1,0.681,0,0
+QMF00047,47,Female,260000,Self-Employed,Graduate,Married,Tier-2,178000,2,Medium,665,54,50,4,0.464,0,0
+QMF00048,23,Female,303000,Retired,High School,Married,Tier-2,55000,0,Low,598,40,26,4,0.183,1,0
+QMF00049,41,Male,710000,Salaried,Post-Graduate,Married,Tier-2,214000,2,High,730,15,71,4,0.343,0,1
+QMF00050,49,Female,531000,Business,Graduate,Married,Tier-2,145000,0,High,668,18,83,3,0.378,0,1
+QMF00051,28,Male,341000,Salaried,Post-Graduate,Married,Tier-2,12000,2,High,733,23,20,3,0.341,1,1
+QMF00052,65,Male,553000,Business,Post-Graduate,Married,Tier-3,108000,4,Medium,635,62,84,2,0.263,1,1
+QMF00053,29,Male,559000,Business,Post-Graduate,Single,Tier-2,63000,2,Low,626,46,20,2,0.712,1,0
+QMF00054,56,Female,292000,Salaried,High School,Single,Tier-3,60000,3,High,620,39,71,2,0.576,0,0
+QMF00055,35,Female,180000,Salaried,Post-Graduate,Single,Tier-3,138000,4,Medium,711,15,84,2,0.427,1,1
+QMF00056,38,Male,221000,Business,Post-Graduate,Married,Tier-2,58000,1,Low,625,53,42,3,0.281,0,0
+QMF00057,57,Male,180000,Salaried,High School,Married,Tier-2,225000,2,Medium,663,64,20,0,0.297,1,0
+QMF00058,61,Male,687000,Business,Post-Graduate,Married,Tier-3,11000,3,Low,638,63,27,4,0.503,0,1
+QMF00059,25,Female,756000,Salaried,Graduate,Married,Tier-2,162000,1,Low,715,16,55,3,0.167,1,0
+QMF00060,23,Male,867000,Business,High School,Married,Tier-3,248000,1,Medium,541,70,103,6,0.507,0,0
+QMF00061,27,Male,180000,Self-Employed,Graduate,Single,Tier-2,168000,4,Medium,699,66,0,4,0.651,1,1
+QMF00062,63,Male,653000,Retired,Post-Graduate,Married,Tier-2,103000,2,High,818,13,48,1,0.413,0,1
+QMF00063,25,Male,1223000,Salaried,High School,Married,Tier-1,450000,0,Low,778,47,42,4,0.376,0,1
+QMF00064,50,Female,668000,Self-Employed,Post-Graduate,Single,Tier-1,53000,1,Low,630,9,31,6,0.536,0,1
+QMF00065,39,Male,180000,Self-Employed,Post-Graduate,Single,Tier-3,3000,2,Low,719,63,42,3,0.713,1,0
+QMF00066,47,Female,958000,Salaried,Post-Graduate,Single,Tier-2,85000,1,Low,704,34,28,2,0.746,0,1
+QMF00067,65,Male,371000,Salaried,Graduate,Married,Tier-2,5000,2,Low,797,29,82,1,0.133,0,0
+QMF00068,55,Female,319000,Salaried,High School,Married,Tier-3,462000,2,Medium,479,37,85,4,0.388,0,0
+QMF00069,31,Male,464000,Business,Graduate,Married,Tier-2,35000,2,Medium,769,43,47,4,0.632,1,0
+QMF00070,57,Male,203000,Salaried,Graduate,Married,Tier-2,233000,1,Medium,658,64,40,3,0.504,0,0
+QMF00071,35,Female,363000,Salaried,Graduate,Married,Tier-2,223000,2,High,620,24,30,2,0.716,0,1
+QMF00072,52,Female,883000,Self-Employed,Post-Graduate,Married,Tier-2,37000,2,Medium,618,71,47,4,0.091,0,1
+QMF00073,36,Female,510000,Salaried,Post-Graduate,Single,Tier-1,146000,2,Low,576,34,100,6,0.514,1,1
+QMF00074,29,Male,374000,Salaried,Post-Graduate,Married,Tier-2,7000,1,Low,630,48,41,3,0.381,0,1
+QMF00075,35,Female,381000,Retired,Graduate,Single,Tier-2,99000,1,High,593,12,19,2,0.272,1,0
+QMF00076,44,Male,189000,Retired,Graduate,Single,Tier-1,2000,4,Medium,694,23,33,5,0.785,1,1
+QMF00077,61,Female,334000,Salaried,Graduate,Married,Tier-2,381000,0,High,727,13,67,1,0.223,0,0
+QMF00078,42,Male,180000,Salaried,Graduate,Single,Tier-1,560000,1,High,659,45,23,1,0.182,0,0
+QMF00079,37,Female,636000,Business,Post-Graduate,Married,Tier-1,38000,1,High,799,65,43,1,0.578,1,1
+QMF00080,39,Female,180000,Salaried,Graduate,Married,Tier-1,35000,3,High,636,47,59,1,0.139,1,0
+QMF00081,45,Female,580000,Salaried,Graduate,Single,Tier-1,210000,0,Medium,655,58,25,2,0.613,1,1
+QMF00082,47,Male,621000,Salaried,Graduate,Married,Tier-2,44000,1,Low,642,5,0,3,0.237,0,0
+QMF00083,46,Male,748000,Salaried,Graduate,Single,Tier-3,338000,0,High,727,5,12,1,0.337,0,0
+QMF00084,62,Female,380000,Self-Employed,Graduate,Married,Tier-2,128000,2,Medium,735,60,19,1,0.294,0,0
+QMF00085,50,Male,600000,Salaried,Graduate,Married,Tier-1,65000,0,Low,719,21,38,2,0.398,0,1
+QMF00086,36,Female,332000,Self-Employed,Post-Graduate,Married,Tier-1,268000,1,Medium,670,24,46,3,0.307,0,1
+QMF00087,22,Female,189000,Retired,Post-Graduate,Married,Tier-1,102000,1,Medium,572,18,69,5,0.377,0,0
+QMF00088,46,Male,841000,Salaried,Post-Graduate,Married,Tier-2,364000,3,High,654,21,8,4,0.375,0,1
+QMF00089,28,Female,343000,Self-Employed,High School,Single,Tier-1,395000,1,Medium,798,54,65,3,0.446,0,1
+QMF00090,30,Male,180000,Business,Graduate,Single,Tier-2,27000,0,Low,761,10,33,1,0.363,0,0
+QMF00091,45,Female,280000,Salaried,Post-Graduate,Single,Tier-1,0,1,High,703,24,0,2,0.302,0,0
+QMF00092,22,Female,286000,Salaried,High School,Married,Tier-3,620000,4,High,649,60,45,0,0.63,1,0
+QMF00093,65,Male,467000,Self-Employed,Graduate,Single,Tier-1,355000,2,Medium,678,57,84,2,0.548,0,0
+QMF00094,29,Male,1317000,Self-Employed,High School,Single,Tier-1,9000,4,Low,649,23,71,2,0.601,0,0
+QMF00095,45,Female,483000,Business,Graduate,Single,Tier-3,268000,3,Medium,775,22,42,5,0.467,0,0
+QMF00096,32,Male,406000,Salaried,Graduate,Married,Tier-1,92000,0,Medium,612,68,78,3,0.661,0,1
+QMF00097,38,Female,1398000,Retired,Graduate,Single,Tier-1,45000,2,Low,753,34,50,2,0.195,0,1
+QMF00098,29,Male,621000,Salaried,Post-Graduate,Single,Tier-2,316000,1,Low,637,70,74,4,0.309,0,1
+QMF00099,56,Male,417000,Salaried,Post-Graduate,Married,Tier-2,33000,2,Medium,785,28,0,5,0.338,0,1
+QMF00100,56,Male,278000,Self-Employed,Post-Graduate,Single,Tier-2,441000,1,Medium,714,39,7,3,0.532,1,1
+QMF00101,54,Male,431000,Salaried,Graduate,Married,Tier-1,35000,1,Medium,620,42,66,2,0.589,0,1
+QMF00102,26,Male,349000,Salaried,Graduate,Married,Tier-1,143000,3,Low,655,23,91,0,0.303,0,0
+QMF00103,63,Female,381000,Salaried,Graduate,Married,Tier-1,38000,0,Medium,736,70,57,3,0.484,1,1
+QMF00104,60,Male,746000,Salaried,Graduate,Married,Tier-1,118000,3,Medium,640,2,30,1,0.312,0,0
+QMF00105,62,Male,269000,Salaried,High School,Married,Tier-3,173000,0,Low,681,24,19,6,0.397,1,0
+QMF00106,49,Male,480000,Retired,Graduate,Single,Tier-2,32000,0,Low,638,17,35,4,0.182,0,0
+QMF00107,28,Male,610000,Salaried,Post-Graduate,Married,Tier-1,110000,3,Medium,820,65,81,3,0.797,0,1
+QMF00108,30,Male,252000,Business,Post-Graduate,Single,Tier-2,95000,2,High,834,70,34,7,0.582,0,1
+QMF00109,29,Female,230000,Business,Graduate,Single,Tier-1,11000,2,Medium,797,69,76,4,0.414,1,1
+QMF00110,33,Female,333000,Retired,Post-Graduate,Married,Tier-3,256000,0,Low,670,60,64,3,0.397,0,1
+QMF00111,55,Male,281000,Salaried,Graduate,Single,Tier-1,61000,1,Low,647,50,96,1,0.074,0,0
+QMF00112,54,Female,683000,Business,Graduate,Single,Tier-1,128000,2,High,617,12,51,2,0.239,0,1
+QMF00113,44,Female,209000,Salaried,Graduate,Single,Tier-2,108000,2,Low,802,47,43,1,0.255,0,0
+QMF00114,45,Male,376000,Self-Employed,Post-Graduate,Single,Tier-2,108000,1,Medium,754,67,77,4,0.507,1,0
+QMF00115,58,Female,1469000,Self-Employed,Graduate,Single,Tier-2,17000,4,Medium,758,65,16,2,0.313,0,0
+QMF00116,56,Female,455000,Business,Post-Graduate,Married,Tier-1,83000,2,Low,660,27,31,1,0.18,1,1
+QMF00117,65,Male,498000,Salaried,Post-Graduate,Married,Tier-1,90000,3,High,539,48,0,2,0.304,0,1
+QMF00118,61,Male,686000,Business,Graduate,Single,Tier-2,198000,2,Medium,557,62,7,1,0.402,1,1
+QMF00119,43,Female,281000,Salaried,Post-Graduate,Married,Tier-1,275000,2,Medium,684,44,102,3,0.3,0,1
+QMF00120,48,Female,200000,Business,Post-Graduate,Married,Tier-3,118000,0,Low,638,19,65,1,0.265,1,0
+QMF00121,56,Male,399000,Retired,Graduate,Married,Tier-1,14000,1,Low,628,59,3,3,0.583,0,0
+QMF00122,22,Female,419000,Salaried,Graduate,Single,Tier-2,41000,3,Medium,707,8,80,3,0.462,1,1
+QMF00123,56,Female,180000,Retired,Post-Graduate,Married,Tier-2,27000,0,Medium,761,55,23,1,0.245,0,0
+QMF00124,58,Female,445000,Salaried,Graduate,Single,Tier-1,20000,0,Low,623,47,64,2,0.234,0,1
+QMF00125,35,Female,652000,Salaried,Post-Graduate,Married,Tier-2,68000,1,Low,575,2,63,3,0.757,1,1
+QMF00126,24,Female,219000,Salaried,Graduate,Married,Tier-3,39000,0,Low,625,39,94,6,0.412,0,0
+QMF00127,22,Male,460000,Salaried,Graduate,Married,Tier-1,37000,3,High,596,45,28,3,0.394,1,0
+QMF00128,26,Male,592000,Self-Employed,Graduate,Married,Tier-3,8000,3,Medium,727,32,22,5,0.275,0,0
+QMF00129,47,Female,500000,Salaried,Graduate,Single,Tier-2,3000,1,High,679,65,0,1,0.257,0,0
+QMF00130,35,Female,527000,Salaried,Post-Graduate,Single,Tier-1,16000,0,Low,830,38,41,2,0.13,1,1
+QMF00131,60,Male,317000,Retired,Graduate,Single,Tier-1,28000,2,High,738,11,66,3,0.912,0,1
+QMF00132,48,Female,195000,Business,Post-Graduate,Married,Tier-1,85000,2,Low,825,10,70,3,0.428,0,1
+QMF00133,30,Female,283000,Business,High School,Married,Tier-2,107000,4,Medium,567,59,82,1,0.499,1,0
+QMF00134,36,Male,262000,Business,Post-Graduate,Single,Tier-2,23000,2,High,419,55,53,3,0.705,0,1
+QMF00135,36,Female,347000,Self-Employed,Post-Graduate,Single,Tier-3,83000,1,Low,699,20,60,3,0.101,0,0
+QMF00136,47,Female,661000,Salaried,Graduate,Married,Tier-3,63000,1,Medium,689,17,47,1,0.805,0,1
+QMF00137,63,Female,180000,Salaried,Graduate,Married,Tier-2,30000,4,Low,670,68,66,3,0.646,1,1
+QMF00138,34,Male,392000,Self-Employed,Post-Graduate,Married,Tier-2,1000,2,Low,687,5,16,2,0.04,1,1
+QMF00139,53,Male,202000,Salaried,Graduate,Single,Tier-1,94000,2,Medium,590,60,2,4,0.635,1,1
+QMF00140,60,Male,241000,Self-Employed,Post-Graduate,Single,Tier-2,174000,0,Medium,725,23,20,4,0.059,0,0
+QMF00141,53,Male,493000,Salaried,Graduate,Married,Tier-1,38000,2,Medium,738,46,51,3,0.118,0,0
+QMF00142,25,Male,188000,Salaried,Post-Graduate,Married,Tier-2,21000,2,Medium,584,52,5,4,0.418,0,0
+QMF00143,51,Male,542000,Salaried,High School,Single,Tier-1,327000,1,Medium,651,10,26,5,0.205,0,0
+QMF00144,58,Male,180000,Self-Employed,High School,Married,Tier-1,48000,1,Low,656,46,26,3,0.381,0,0
+QMF00145,44,Male,523000,Self-Employed,Post-Graduate,Married,Tier-1,38000,1,Low,626,28,68,2,0.603,0,0
+QMF00146,60,Male,180000,Self-Employed,Post-Graduate,Married,Tier-1,292000,1,High,587,43,64,6,0.483,1,0
+QMF00147,36,Male,258000,Salaried,Post-Graduate,Married,Tier-2,255000,0,Low,681,26,47,2,0.133,1,0
+QMF00148,64,Male,1028000,Salaried,Post-Graduate,Married,Tier-2,89000,1,Medium,700,55,58,2,0.587,0,1
+QMF00149,50,Female,927000,Business,Graduate,Single,Tier-2,101000,2,Low,631,48,59,4,0.353,1,1
+QMF00150,57,Female,289000,Self-Employed,Graduate,Single,Tier-2,37000,0,Medium,592,29,34,1,0.796,1,0
+QMF00151,34,Male,449000,Salaried,Graduate,Single,Tier-2,12000,1,Medium,712,27,28,0,0.531,0,0
+QMF00152,53,Female,702000,Business,High School,Single,Tier-1,128000,3,Low,618,18,91,4,0.526,0,1
+QMF00153,28,Male,527000,Salaried,Graduate,Married,Tier-1,16000,2,Low,655,60,0,4,0.366,0,0
+QMF00154,43,Female,312000,Salaried,Post-Graduate,Single,Tier-2,89000,2,Medium,645,69,22,2,0.836,0,1
+QMF00155,49,Male,240000,Salaried,Post-Graduate,Married,Tier-2,423000,1,Medium,779,21,38,0,0.575,0,1
+QMF00156,23,Female,584000,Self-Employed,Post-Graduate,Single,Tier-1,458000,2,Low,622,24,61,3,0.4,0,1
+QMF00157,63,Female,675000,Self-Employed,Post-Graduate,Single,Tier-1,41000,0,Medium,818,3,79,6,0.138,1,0
+QMF00158,27,Female,931000,Salaried,Graduate,Married,Tier-1,147000,3,Low,740,62,100,4,0.272,0,1
+QMF00159,49,Female,180000,Business,Post-Graduate,Married,Tier-2,96000,0,High,825,2,42,3,0.33,0,1
+QMF00160,49,Male,182000,Salaried,Post-Graduate,Married,Tier-1,313000,2,Medium,733,66,44,1,0.315,0,0
+QMF00161,65,Male,686000,Salaried,Graduate,Married,Tier-2,48000,1,Low,662,42,55,4,0.11,0,0
+QMF00162,65,Female,180000,Salaried,Graduate,Married,Tier-3,1000,2,Medium,606,34,29,4,0.57,0,0
+QMF00163,41,Male,716000,Salaried,Post-Graduate,Single,Tier-1,27000,1,Medium,651,42,9,2,0.25,0,0
+QMF00164,51,Female,322000,Salaried,Post-Graduate,Single,Tier-3,65000,1,Low,798,20,42,7,0.424,1,0
+QMF00165,32,Male,272000,Self-Employed,Graduate,Married,Tier-2,57000,0,Medium,676,68,67,2,0.371,0,0
+QMF00166,49,Male,406000,Business,Post-Graduate,Married,Tier-2,235000,2,Low,732,45,37,4,0.515,1,1
+QMF00167,46,Male,180000,Salaried,Post-Graduate,Married,Tier-2,171000,4,Low,696,42,57,1,0.389,0,1
+QMF00168,60,Male,570000,Salaried,Graduate,Single,Tier-2,53000,3,Low,699,47,0,3,0.291,0,0
+QMF00169,54,Female,917000,Salaried,High School,Married,Tier-2,92000,0,Medium,703,5,45,0,0.785,0,1
+QMF00170,22,Male,585000,Salaried,Post-Graduate,Married,Tier-1,15000,1,Low,719,49,32,1,0.472,1,1
+QMF00171,48,Male,316000,Salaried,Post-Graduate,Married,Tier-1,343000,3,Medium,614,37,6,3,0.494,1,0
+QMF00172,34,Male,180000,Business,Post-Graduate,Married,Tier-1,411000,1,Medium,658,34,64,2,0.503,0,0
+QMF00173,62,Male,180000,Salaried,Graduate,Married,Tier-1,585000,2,Medium,704,70,100,2,0.418,0,1
+QMF00174,24,Female,180000,Self-Employed,Graduate,Single,Tier-1,304000,3,Medium,693,18,74,2,0.037,0,0
+QMF00175,60,Male,360000,Business,Graduate,Married,Tier-1,29000,3,High,643,19,76,4,0.788,1,1
+QMF00176,27,Female,386000,Salaried,Graduate,Single,Tier-1,7000,1,Medium,713,40,66,2,0.666,0,1
+QMF00177,29,Male,584000,Business,Graduate,Married,Tier-2,130000,1,Medium,618,17,64,3,0.256,0,0
+QMF00178,48,Female,180000,Self-Employed,High School,Single,Tier-3,366000,1,Low,582,60,0,4,0.134,0,0
+QMF00179,30,Female,745000,Self-Employed,Post-Graduate,Single,Tier-3,29000,2,High,703,42,41,3,0.633,0,1
+QMF00180,58,Female,531000,Salaried,Post-Graduate,Married,Tier-2,1000,1,Low,584,72,60,5,0.435,1,1
+QMF00181,54,Female,303000,Salaried,High School,Married,Tier-2,246000,0,Low,702,65,60,1,0.531,0,0
+QMF00182,63,Male,188000,Salaried,Post-Graduate,Married,Tier-3,12000,1,Medium,523,53,83,6,0.397,0,0
+QMF00183,65,Male,720000,Salaried,Graduate,Single,Tier-1,80000,0,Low,622,7,14,3,0.726,0,1
+QMF00184,45,Male,307000,Salaried,Graduate,Married,Tier-1,170000,2,Low,653,5,63,4,0.51,0,1
+QMF00185,36,Male,358000,Self-Employed,Post-Graduate,Single,Tier-3,41000,2,Medium,551,24,13,4,0.473,0,0
+QMF00186,53,Female,447000,Salaried,Post-Graduate,Married,Tier-2,13000,1,Medium,650,28,38,4,0.355,1,0
+QMF00187,53,Female,219000,Retired,Graduate,Single,Tier-2,220000,1,Medium,774,62,43,2,0.51,0,0
+QMF00188,45,Male,310000,Self-Employed,Post-Graduate,Single,Tier-1,149000,3,High,578,17,70,6,0.062,0,1
+QMF00189,62,Male,583000,Salaried,Graduate,Single,Tier-1,670000,0,Low,652,20,67,1,0.2,0,1
+QMF00190,33,Male,551000,Salaried,Post-Graduate,Married,Tier-3,63000,2,Low,816,3,48,6,0.328,1,1
+QMF00191,60,Female,554000,Business,Post-Graduate,Married,Tier-2,10000,3,Medium,595,37,0,3,0.668,0,1
+QMF00192,23,Female,192000,Business,Post-Graduate,Single,Tier-1,199000,1,Low,791,15,58,3,0.181,1,1
+QMF00193,24,Male,318000,Self-Employed,High School,Married,Tier-1,111000,2,Medium,657,51,36,2,0.558,0,1
+QMF00194,58,Female,291000,Salaried,Post-Graduate,Married,Tier-2,36000,4,Low,688,48,86,3,0.654,1,1
+QMF00195,38,Female,458000,Salaried,High School,Married,Tier-2,228000,0,Medium,783,8,79,5,0.41,0,1
+QMF00196,23,Male,436000,Salaried,High School,Married,Tier-1,34000,1,Medium,641,13,16,4,0.559,0,1
+QMF00197,23,Female,395000,Salaried,Post-Graduate,Married,Tier-3,45000,1,Medium,730,48,62,4,0.755,0,1
+QMF00198,49,Female,1406000,Business,Post-Graduate,Married,Tier-1,15000,1,Medium,750,3,63,2,0.206,1,1
+QMF00199,44,Male,309000,Self-Employed,Graduate,Married,Tier-1,76000,3,Medium,627,65,60,4,0.526,1,0
+QMF00200,58,Male,289000,Self-Employed,Graduate,Single,Tier-2,81000,3,Low,619,31,56,5,0.517,1,1
+QMF00201,53,Male,192000,Business,Post-Graduate,Single,Tier-1,108000,2,Low,661,26,63,3,0.275,1,0
+QMF00202,54,Male,180000,Self-Employed,Graduate,Single,Tier-3,185000,0,Low,664,56,90,5,0.409,0,0
+QMF00203,22,Female,185000,Salaried,Graduate,Single,Tier-2,355000,0,Medium,593,34,28,1,0.705,0,0
+QMF00204,40,Female,244000,Salaried,High School,Married,Tier-2,22000,2,Medium,628,9,17,4,0.267,1,0
+QMF00205,23,Male,745000,Retired,High School,Married,Tier-1,8000,0,Medium,402,62,68,3,0.416,1,1
+QMF00206,65,Male,370000,Salaried,Post-Graduate,Married,Tier-1,3000,2,Low,653,13,0,6,0.137,0,0
+QMF00207,47,Male,403000,Retired,Graduate,Married,Tier-1,23000,1,Medium,751,69,64,4,0.096,0,0
+QMF00208,53,Male,344000,Business,Graduate,Single,Tier-2,161000,2,High,546,41,59,3,0.555,0,0
+QMF00209,27,Female,443000,Salaried,Graduate,Married,Tier-2,195000,2,Low,642,1,0,2,0.304,0,0
+QMF00210,53,Male,783000,Self-Employed,Graduate,Married,Tier-3,232000,1,Low,875,47,25,3,0.228,0,0
+QMF00211,25,Male,180000,Business,Graduate,Married,Tier-2,42000,0,Low,678,4,92,3,0.395,0,0
+QMF00212,32,Male,708000,Self-Employed,Graduate,Married,Tier-3,55000,1,Medium,788,63,1,1,0.556,0,0
+QMF00213,38,Female,180000,Retired,High School,Single,Tier-2,99000,1,Medium,599,52,51,2,0.861,1,1
+QMF00214,59,Male,368000,Retired,Post-Graduate,Married,Tier-1,10000,2,Low,715,10,14,3,0.435,1,0
+QMF00215,45,Female,1209000,Salaried,Graduate,Single,Tier-1,142000,2,Medium,585,28,23,4,0.078,1,1
+QMF00216,26,Male,527000,Salaried,Graduate,Married,Tier-2,618000,2,Low,712,6,102,3,0.327,1,1
+QMF00217,55,Female,445000,Retired,Post-Graduate,Married,Tier-1,67000,4,Medium,747,27,48,1,0.18,0,1
+QMF00218,27,Female,1089000,Self-Employed,Graduate,Single,Tier-1,210000,1,Medium,728,12,60,1,0.677,1,1
+QMF00219,43,Male,246000,Salaried,High School,Married,Tier-2,104000,0,Medium,652,62,41,1,0.319,0,0
+QMF00220,32,Male,460000,Salaried,Graduate,Single,Tier-3,21000,1,Low,701,52,0,4,0.716,1,1
+QMF00221,37,Female,498000,Self-Employed,Graduate,Single,Tier-1,131000,2,High,702,48,9,2,0.532,0,0
+QMF00222,54,Female,272000,Retired,Graduate,Single,Tier-2,53000,1,Medium,733,67,80,4,0.353,1,1
+QMF00223,30,Male,285000,Business,Graduate,Single,Tier-3,5000,3,Low,670,46,49,2,0.692,0,0
+QMF00224,27,Male,269000,Self-Employed,Post-Graduate,Married,Tier-2,151000,1,Low,754,15,21,3,0.453,0,1
+QMF00225,37,Female,380000,Salaried,Post-Graduate,Single,Tier-1,294000,3,Medium,794,71,44,5,0.225,0,0
+QMF00226,50,Female,489000,Salaried,Post-Graduate,Married,Tier-1,63000,4,High,654,36,64,4,0.124,0,1
+QMF00227,24,Male,388000,Business,Graduate,Single,Tier-2,74000,0,High,683,14,58,3,0.329,0,1
+QMF00228,41,Female,535000,Salaried,Post-Graduate,Single,Tier-2,332000,1,Medium,607,3,21,1,0.342,0,1
+QMF00229,57,Male,180000,Salaried,Post-Graduate,Single,Tier-3,252000,2,High,707,67,0,4,0.375,1,1
+QMF00230,40,Male,321000,Salaried,High School,Single,Tier-2,188000,1,Low,707,19,32,4,0.328,0,0
+QMF00231,47,Male,206000,Self-Employed,Graduate,Married,Tier-1,43000,1,Low,684,54,78,3,0.447,0,0
+QMF00232,24,Male,428000,Retired,Graduate,Single,Tier-1,362000,2,High,690,69,70,4,0.408,0,0
+QMF00233,40,Male,424000,Salaried,Post-Graduate,Single,Tier-2,25000,0,Medium,833,10,57,4,0.112,0,0
+QMF00234,41,Female,340000,Salaried,Post-Graduate,Single,Tier-1,148000,2,Medium,449,33,39,3,0.299,0,1
+QMF00235,53,Male,480000,Self-Employed,Graduate,Single,Tier-1,4000,2,Medium,640,13,29,1,0.34,0,1
+QMF00236,28,Male,627000,Retired,Graduate,Married,Tier-2,155000,0,High,652,51,40,1,0.407,1,0
+QMF00237,62,Male,350000,Salaried,Graduate,Married,Tier-1,49000,1,Medium,796,32,68,4,0.187,0,1
+QMF00238,54,Male,203000,Salaried,High School,Married,Tier-1,90000,1,High,718,24,75,4,0.312,1,1
+QMF00239,61,Female,180000,Salaried,Graduate,Single,Tier-1,64000,2,Medium,719,35,37,3,0.742,1,1
+QMF00240,60,Male,369000,Business,High School,Married,Tier-1,28000,0,Low,780,70,121,2,0.654,1,1
+QMF00241,39,Male,414000,Salaried,Post-Graduate,Married,Tier-1,146000,3,High,665,40,47,3,0.44,0,1
+QMF00242,61,Female,213000,Salaried,High School,Married,Tier-2,321000,1,Low,732,54,34,3,0.256,0,0
+QMF00243,22,Male,540000,Self-Employed,Post-Graduate,Single,Tier-3,479000,0,High,637,44,89,4,0.428,0,0
+QMF00244,32,Male,281000,Business,Graduate,Married,Tier-1,32000,1,Medium,595,62,0,3,0.232,1,0
+QMF00245,49,Male,180000,Salaried,High School,Married,Tier-2,190000,1,Medium,823,68,59,0,0.46,0,0
+QMF00246,46,Male,723000,Business,Graduate,Married,Tier-1,164000,1,Medium,709,33,42,5,0.483,1,1
+QMF00247,44,Male,680000,Salaried,High School,Married,Tier-2,63000,2,Low,731,56,88,2,0.401,0,1
+QMF00248,52,Male,180000,Self-Employed,Post-Graduate,Married,Tier-3,3000,1,Low,593,36,63,2,0.175,0,0
+QMF00249,51,Female,266000,Salaried,Graduate,Married,Tier-2,176000,0,High,720,54,49,3,0.738,0,1
+QMF00250,63,Male,260000,Self-Employed,Post-Graduate,Married,Tier-3,436000,0,High,822,19,64,2,0.242,0,1
+QMF00251,56,Male,892000,Salaried,High School,Single,Tier-1,150000,2,Low,657,43,13,2,0.46,1,0
+QMF00252,28,Female,343000,Business,Graduate,Single,Tier-1,86000,2,High,579,12,74,2,0.383,0,0
+QMF00253,37,Male,180000,Business,Post-Graduate,Married,Tier-3,112000,1,High,694,11,4,1,0.054,0,0
+QMF00254,47,Female,588000,Self-Employed,Post-Graduate,Single,Tier-1,33000,3,Medium,597,70,55,3,0.621,0,0
+QMF00255,23,Female,184000,Business,Post-Graduate,Married,Tier-1,208000,1,Low,555,12,46,4,0.524,0,0
+QMF00256,22,Male,314000,Business,Graduate,Married,Tier-2,206000,2,High,621,41,0,1,0.555,0,1
+QMF00257,33,Female,237000,Salaried,Graduate,Married,Tier-3,24000,1,Medium,640,25,47,2,0.506,0,1
+QMF00258,26,Male,266000,Salaried,Graduate,Married,Tier-3,316000,0,High,601,3,53,3,0.264,0,0
+QMF00259,58,Male,607000,Retired,Post-Graduate,Married,Tier-1,47000,4,High,786,3,25,2,0.274,0,0
+QMF00260,53,Male,836000,Salaried,Graduate,Married,Tier-3,605000,1,High,831,28,14,4,0.109,0,1
+QMF00261,30,Male,180000,Business,High School,Married,Tier-1,72000,2,Medium,729,23,59,0,0.432,0,0
+QMF00262,62,Female,511000,Retired,Graduate,Single,Tier-1,29000,1,Low,710,48,55,4,0.324,0,0
+QMF00263,56,Male,242000,Salaried,Post-Graduate,Married,Tier-2,65000,2,Low,668,67,51,2,0.173,1,0
+QMF00264,40,Male,246000,Self-Employed,Graduate,Married,Tier-1,87000,3,Low,608,42,45,7,0.137,1,0
+QMF00265,37,Male,474000,Salaried,Graduate,Married,Tier-1,11000,0,Low,808,40,28,4,0.285,1,1
+QMF00266,24,Female,206000,Self-Employed,Graduate,Married,Tier-2,129000,3,Medium,674,6,113,2,0.714,1,0
+QMF00267,41,Male,469000,Salaried,Graduate,Married,Tier-1,137000,2,Medium,642,20,36,2,0.04,0,0
+QMF00268,45,Female,541000,Salaried,Post-Graduate,Married,Tier-1,201000,2,High,761,11,19,6,0.107,0,0
+QMF00269,54,Male,286000,Self-Employed,High School,Single,Tier-1,4000,1,Low,674,27,46,2,0.559,0,1
+QMF00270,45,Female,752000,Business,Post-Graduate,Married,Tier-2,117000,3,Medium,758,21,39,8,0.403,0,1
+QMF00271,32,Female,180000,Business,High School,Married,Tier-2,8000,0,Low,647,13,35,3,0.661,0,0
+QMF00272,29,Female,759000,Salaried,High School,Single,Tier-2,181000,1,Low,761,35,101,2,0.408,1,1
+QMF00273,57,Female,180000,Salaried,Post-Graduate,Married,Tier-2,9000,3,Low,758,47,11,2,0.559,0,0
+QMF00274,59,Male,1599000,Self-Employed,Post-Graduate,Married,Tier-2,364000,2,Medium,785,28,46,4,0.677,0,0
+QMF00275,61,Male,290000,Salaried,Post-Graduate,Single,Tier-3,182000,0,Low,623,21,13,4,0.406,0,0
+QMF00276,41,Male,191000,Retired,Graduate,Married,Tier-1,106000,1,Medium,673,18,28,6,0.219,0,0
+QMF00277,56,Male,319000,Business,Post-Graduate,Married,Tier-1,87000,1,Low,835,31,97,4,0.18,0,0
+QMF00278,46,Male,204000,Self-Employed,Graduate,Married,Tier-3,21000,1,High,660,60,53,4,0.187,1,1
+QMF00279,56,Female,448000,Retired,Post-Graduate,Married,Tier-1,52000,1,High,744,37,53,5,0.243,0,0
+QMF00280,46,Male,769000,Salaried,Post-Graduate,Married,Tier-3,305000,2,High,863,21,16,3,0.295,1,0
+QMF00281,50,Male,210000,Business,Graduate,Married,Tier-2,352000,0,High,532,14,32,2,0.079,1,1
+QMF00282,39,Female,498000,Salaried,Graduate,Married,Tier-2,0,2,High,657,60,99,3,0.021,0,1
+QMF00283,39,Male,180000,Retired,High School,Married,Tier-1,135000,3,High,680,23,59,2,0.67,0,0
+QMF00284,23,Female,639000,Salaried,Post-Graduate,Single,Tier-1,191000,1,Medium,536,29,34,2,0.271,1,0
+QMF00285,56,Female,455000,Self-Employed,Graduate,Married,Tier-1,145000,1,Low,643,47,58,8,0.247,0,0
+QMF00286,37,Female,655000,Business,Post-Graduate,Married,Tier-2,13000,1,Low,602,30,53,2,0.795,0,1
+QMF00287,62,Female,339000,Salaried,Post-Graduate,Married,Tier-2,37000,1,Low,748,38,19,4,0.514,1,1
+QMF00288,57,Female,285000,Salaried,Post-Graduate,Single,Tier-3,43000,2,Medium,541,27,33,8,0.706,0,0
+QMF00289,54,Female,567000,Business,High School,Married,Tier-1,267000,1,Medium,831,15,112,5,0.28,0,0
+QMF00290,25,Female,180000,Salaried,Post-Graduate,Single,Tier-1,93000,2,High,735,59,56,7,0.179,0,0
+QMF00291,54,Male,180000,Salaried,Graduate,Married,Tier-1,100000,1,High,595,3,0,3,0.34,0,1
+QMF00292,35,Male,361000,Salaried,Post-Graduate,Married,Tier-2,410000,1,Medium,762,10,60,1,0.468,0,0
+QMF00293,42,Male,292000,Salaried,High School,Married,Tier-3,152000,0,Medium,727,17,84,2,0.061,0,0
+QMF00294,41,Male,491000,Business,Graduate,Married,Tier-1,343000,0,High,676,11,17,2,0.484,0,1
+QMF00295,29,Female,660000,Self-Employed,Graduate,Married,Tier-2,91000,0,Low,622,48,31,2,0.369,0,1
+QMF00296,28,Female,486000,Salaried,Graduate,Married,Tier-1,24000,1,Medium,723,5,88,6,0.695,1,1
+QMF00297,24,Female,632000,Salaried,Post-Graduate,Married,Tier-2,399000,3,Low,689,69,46,2,0.63,1,1
+QMF00298,38,Male,432000,Salaried,Post-Graduate,Married,Tier-3,92000,2,Medium,624,64,40,5,0.626,0,0
+QMF00299,54,Female,475000,Salaried,Post-Graduate,Single,Tier-1,30000,1,Low,572,14,4,2,0.322,0,1
+QMF00300,33,Female,340000,Salaried,High School,Single,Tier-1,54000,0,High,611,50,77,4,0.078,0,0
+QMF00301,43,Female,468000,Salaried,Post-Graduate,Married,Tier-3,8000,0,Medium,639,26,39,5,0.42,0,1
+QMF00302,43,Female,397000,Salaried,Graduate,Married,Tier-3,95000,1,Low,772,72,0,1,0.092,1,1
+QMF00303,51,Female,433000,Business,Graduate,Married,Tier-2,288000,1,Low,748,69,0,4,0.046,0,0
+QMF00304,59,Male,330000,Salaried,Graduate,Single,Tier-2,407000,1,Medium,643,7,28,1,0.141,0,0
+QMF00305,59,Female,565000,Self-Employed,Graduate,Married,Tier-1,405000,0,High,647,16,12,5,0.687,0,0
+QMF00306,29,Male,245000,Self-Employed,Post-Graduate,Single,Tier-2,20000,0,Medium,759,55,17,6,0.287,1,1
+QMF00307,48,Male,359000,Self-Employed,High School,Married,Tier-3,72000,0,Medium,701,56,115,4,0.382,1,1
+QMF00308,48,Female,745000,Self-Employed,Graduate,Married,Tier-2,4000,0,Low,700,4,66,3,0.095,0,0
+QMF00309,55,Male,215000,Salaried,Post-Graduate,Married,Tier-1,290000,2,Medium,623,48,0,1,0.598,0,1
+QMF00310,42,Female,180000,Business,Post-Graduate,Single,Tier-1,67000,0,Medium,670,17,35,1,0.694,0,0
+QMF00311,51,Male,443000,Self-Employed,Graduate,Married,Tier-1,150000,1,Medium,680,36,42,1,0.722,0,1
+QMF00312,54,Female,314000,Salaried,Graduate,Married,Tier-1,188000,2,Low,672,70,0,3,0.205,0,0
+QMF00313,49,Male,632000,Business,Graduate,Single,Tier-1,84000,3,Medium,738,38,61,2,0.246,1,0
+QMF00314,54,Female,337000,Self-Employed,Graduate,Married,Tier-1,55000,3,Medium,741,62,0,0,0.601,0,0
+QMF00315,26,Female,260000,Salaried,High School,Single,Tier-1,491000,2,High,606,48,77,1,0.536,1,1
+QMF00316,40,Male,347000,Salaried,Graduate,Married,Tier-1,501000,0,High,639,10,88,6,0.432,1,1
+QMF00317,25,Male,661000,Salaried,Graduate,Single,Tier-2,51000,2,Medium,625,36,115,4,0.815,0,0
+QMF00318,56,Female,497000,Business,Post-Graduate,Married,Tier-1,98000,2,Medium,791,29,0,2,0.611,0,1
+QMF00319,38,Male,180000,Self-Employed,High School,Married,Tier-1,541000,0,Low,860,4,3,4,0.673,1,1
+QMF00320,65,Male,401000,Retired,Graduate,Single,Tier-1,1000,1,High,642,44,65,5,0.559,0,1
+QMF00321,49,Male,412000,Self-Employed,Graduate,Married,Tier-1,80000,3,Medium,666,56,80,0,0.585,0,1
+QMF00322,51,Male,359000,Salaried,Graduate,Married,Tier-2,16000,1,Low,747,42,69,0,0.039,0,0
+QMF00323,50,Female,259000,Salaried,Graduate,Married,Tier-1,107000,0,Medium,623,13,77,4,0.31,0,1
+QMF00324,27,Female,699000,Self-Employed,Graduate,Married,Tier-2,4000,0,High,749,46,86,3,0.443,0,0
+QMF00325,56,Male,718000,Self-Employed,Post-Graduate,Married,Tier-3,78000,1,Low,678,33,51,4,0.32,0,0
+QMF00326,62,Male,180000,Retired,Graduate,Married,Tier-2,37000,0,Medium,540,21,38,1,0.155,0,0
+QMF00327,58,Female,234000,Salaried,Graduate,Married,Tier-2,114000,2,Medium,575,57,3,3,0.264,0,1
+QMF00328,45,Male,335000,Salaried,Post-Graduate,Married,Tier-3,828000,2,Low,652,69,36,4,0.239,0,1
+QMF00329,50,Male,610000,Self-Employed,Graduate,Married,Tier-2,242000,0,Low,777,70,40,2,0.259,0,1
+QMF00330,52,Female,369000,Self-Employed,Graduate,Married,Tier-1,280000,3,High,608,67,16,5,0.462,0,0
+QMF00331,56,Female,249000,Self-Employed,Graduate,Single,Tier-1,151000,1,High,637,48,43,2,0.353,0,1
+QMF00332,54,Female,535000,Business,High School,Single,Tier-3,6000,0,Low,696,33,13,4,0.294,0,1
+QMF00333,42,Female,322000,Salaried,Graduate,Single,Tier-1,35000,2,High,546,36,78,2,0.36,1,1
+QMF00334,53,Male,340000,Self-Employed,High School,Married,Tier-1,389000,2,Medium,703,33,57,3,0.829,1,1
+QMF00335,44,Female,357000,Self-Employed,Post-Graduate,Married,Tier-2,68000,2,Medium,556,31,31,3,0.229,1,0
+QMF00336,54,Male,497000,Business,Graduate,Married,Tier-3,16000,3,Medium,725,21,50,0,0.428,1,1
+QMF00337,24,Male,306000,Business,High School,Married,Tier-1,182000,2,High,615,27,11,5,0.164,0,0
+QMF00338,39,Male,529000,Salaried,Graduate,Married,Tier-2,53000,3,Medium,604,72,14,5,0.809,0,0
+QMF00339,46,Male,348000,Salaried,Graduate,Married,Tier-1,47000,1,Low,701,62,25,2,0.114,0,0
+QMF00340,63,Female,201000,Retired,Post-Graduate,Married,Tier-2,931000,2,High,743,26,39,2,0.158,1,1
+QMF00341,52,Male,355000,Salaried,Post-Graduate,Single,Tier-1,293000,4,Medium,710,66,49,1,0.574,1,1
+QMF00342,24,Male,207000,Retired,Post-Graduate,Married,Tier-1,79000,2,Low,696,12,49,0,0.513,0,0
+QMF00343,61,Male,370000,Salaried,Graduate,Married,Tier-3,589000,0,Medium,697,22,5,5,0.707,0,1
+QMF00344,45,Male,572000,Self-Employed,Graduate,Married,Tier-2,158000,1,Medium,710,17,42,2,0.456,0,1
+QMF00345,53,Female,201000,Business,Post-Graduate,Married,Tier-2,203000,2,High,715,7,20,5,0.222,0,1
+QMF00346,43,Male,443000,Retired,Graduate,Single,Tier-1,5000,0,Medium,648,68,0,3,0.366,0,0
+QMF00347,44,Female,230000,Salaried,Graduate,Married,Tier-1,19000,4,Low,732,37,137,1,0.193,1,0
+QMF00348,23,Male,405000,Self-Employed,Graduate,Married,Tier-2,150000,0,Medium,616,38,21,1,0.153,0,0
+QMF00349,48,Male,581000,Salaried,Graduate,Married,Tier-1,344000,0,Medium,767,11,22,4,0.512,1,0
+QMF00350,63,Female,180000,Salaried,High School,Married,Tier-1,147000,3,Low,742,1,4,5,0.317,0,0
+QMF00351,23,Male,196000,Self-Employed,Graduate,Married,Tier-1,22000,1,Medium,854,25,13,1,0.504,0,1
+QMF00352,47,Female,296000,Self-Employed,High School,Single,Tier-2,18000,0,High,721,42,39,0,0.332,1,0
+QMF00353,38,Male,431000,Retired,Graduate,Single,Tier-3,279000,2,Low,752,52,85,1,0.28,0,0
+QMF00354,61,Male,331000,Salaried,Post-Graduate,Single,Tier-3,23000,2,Medium,555,24,39,7,0.698,0,0
+QMF00355,54,Female,353000,Salaried,Graduate,Married,Tier-2,110000,0,Low,755,53,35,4,0.732,1,0
+QMF00356,30,Male,1114000,Salaried,Graduate,Single,Tier-1,6000,4,Low,774,56,81,5,0.186,1,1
+QMF00357,64,Male,186000,Salaried,Graduate,Married,Tier-1,13000,1,Medium,800,63,29,2,0.412,0,1
+QMF00358,60,Female,676000,Salaried,Graduate,Married,Tier-3,167000,2,Low,689,8,45,4,0.346,0,1
+QMF00359,50,Male,299000,Business,Post-Graduate,Single,Tier-1,175000,1,High,652,59,17,4,0.409,0,1
+QMF00360,63,Female,490000,Salaried,High School,Married,Tier-3,63000,2,Low,592,45,95,0,0.522,1,1
+QMF00361,47,Male,1168000,Retired,Post-Graduate,Married,Tier-1,36000,1,Medium,600,27,76,3,0.448,1,0
+QMF00362,56,Female,529000,Retired,Graduate,Single,Tier-3,252000,1,Low,677,52,40,3,0.544,0,0
+QMF00363,46,Female,445000,Self-Employed,Graduate,Married,Tier-3,37000,1,High,539,18,33,5,0.423,0,1
+QMF00364,45,Female,873000,Retired,Graduate,Married,Tier-3,117000,3,Medium,618,16,44,3,0.465,1,1
+QMF00365,34,Female,672000,Business,Post-Graduate,Married,Tier-1,517000,0,Medium,687,66,40,5,0.397,0,0
+QMF00366,28,Male,233000,Salaried,Post-Graduate,Single,Tier-1,24000,2,Low,685,5,0,4,0.378,0,0
+QMF00367,57,Female,426000,Salaried,High School,Single,Tier-1,424000,3,Medium,602,3,77,0,0.312,0,0
+QMF00368,41,Male,180000,Salaried,Graduate,Single,Tier-1,30000,0,Low,581,70,38,2,0.594,0,0
+QMF00369,22,Male,269000,Self-Employed,Post-Graduate,Married,Tier-1,126000,0,High,593,7,101,1,0.803,0,1
+QMF00370,29,Male,431000,Business,Graduate,Married,Tier-2,71000,1,Medium,662,50,57,3,0.144,0,1
+QMF00371,37,Male,260000,Salaried,Post-Graduate,Married,Tier-1,503000,2,Medium,850,14,0,5,0.157,0,0
+QMF00372,35,Male,421000,Business,Post-Graduate,Married,Tier-2,48000,0,Medium,764,38,6,6,0.634,1,1
+QMF00373,33,Female,360000,Self-Employed,Post-Graduate,Married,Tier-2,77000,1,Medium,697,47,0,2,0.569,0,0
+QMF00374,44,Female,487000,Salaried,Post-Graduate,Married,Tier-1,610000,2,Medium,724,33,6,2,0.523,0,1
+QMF00375,36,Female,287000,Retired,Graduate,Married,Tier-3,115000,2,Medium,761,43,0,6,0.251,1,1
+QMF00376,49,Male,216000,Salaried,Post-Graduate,Single,Tier-1,105000,1,Medium,734,29,52,9,0.755,1,0
+QMF00377,55,Female,817000,Salaried,Graduate,Married,Tier-1,45000,1,Medium,655,57,35,3,0.151,0,0
+QMF00378,23,Male,276000,Self-Employed,Post-Graduate,Married,Tier-2,181000,2,Medium,612,5,67,0,0.618,0,0
+QMF00379,53,Male,521000,Salaried,Graduate,Married,Tier-3,2000,4,Low,669,60,43,3,0.335,0,0
+QMF00380,44,Male,798000,Self-Employed,Post-Graduate,Single,Tier-1,8000,3,High,760,70,37,1,0.311,0,1
+QMF00381,43,Male,396000,Salaried,High School,Single,Tier-1,137000,2,Medium,658,2,105,3,0.681,0,0
+QMF00382,46,Female,226000,Salaried,High School,Single,Tier-2,63000,1,Medium,591,70,51,3,0.823,0,1
+QMF00383,43,Female,328000,Retired,Post-Graduate,Single,Tier-1,460000,1,High,542,43,42,2,0.285,0,1
+QMF00384,43,Male,634000,Salaried,Post-Graduate,Married,Tier-2,350000,0,Low,670,4,19,0,0.096,1,0
+QMF00385,63,Male,406000,Salaried,Post-Graduate,Married,Tier-3,188000,0,High,597,56,9,4,0.585,0,1
+QMF00386,27,Male,187000,Salaried,Post-Graduate,Married,Tier-3,256000,2,High,645,59,68,3,0.277,0,1
+QMF00387,36,Male,503000,Retired,High School,Married,Tier-1,165000,1,High,796,9,66,2,0.519,0,1
+QMF00388,64,Female,553000,Salaried,Graduate,Married,Tier-1,20000,1,High,675,3,92,1,0.295,0,0
+QMF00389,58,Male,298000,Salaried,High School,Married,Tier-1,218000,4,Medium,619,48,59,3,0.158,0,0
+QMF00390,54,Male,507000,Salaried,High School,Single,Tier-1,35000,0,Low,704,43,33,0,0.143,1,1
+QMF00391,29,Male,414000,Salaried,Post-Graduate,Single,Tier-1,59000,0,Medium,833,1,60,4,0.228,1,1
+QMF00392,65,Female,325000,Business,Graduate,Single,Tier-1,257000,0,Low,670,57,42,4,0.45,1,0
+QMF00393,65,Female,180000,Business,Graduate,Single,Tier-3,115000,2,Low,491,53,70,1,0.743,0,1
+QMF00394,26,Female,655000,Salaried,High School,Single,Tier-3,295000,2,Medium,732,16,85,3,0.301,0,0
+QMF00395,60,Female,550000,Self-Employed,Graduate,Married,Tier-1,36000,1,Low,707,51,39,3,0.399,0,0
+QMF00396,25,Male,499000,Salaried,High School,Married,Tier-1,140000,1,High,687,55,97,3,0.209,0,0
+QMF00397,27,Male,847000,Retired,Graduate,Single,Tier-1,13000,2,High,662,1,80,6,0.832,1,1
+QMF00398,53,Female,609000,Retired,Graduate,Single,Tier-1,155000,3,High,615,28,45,5,0.117,1,1
+QMF00399,51,Female,528000,Salaried,High School,Married,Tier-2,216000,4,Medium,801,53,65,5,0.576,1,1
+QMF00400,56,Female,180000,Business,Post-Graduate,Single,Tier-2,132000,3,High,532,58,54,3,0.251,1,1
+QMF00401,61,Female,700000,Business,Post-Graduate,Married,Tier-3,46000,2,High,655,60,45,2,0.242,1,1
+QMF00402,37,Female,379000,Salaried,Post-Graduate,Married,Tier-2,5000,0,Medium,653,59,102,5,0.432,0,1
+QMF00403,34,Female,430000,Salaried,Graduate,Single,Tier-2,19000,0,Low,748,22,60,5,0.71,1,0
+QMF00404,63,Female,432000,Salaried,Post-Graduate,Married,Tier-2,146000,0,High,778,8,19,6,0.579,0,1
+QMF00405,51,Female,554000,Business,Graduate,Married,Tier-1,409000,2,High,661,49,14,1,0.124,1,1
+QMF00406,40,Female,671000,Retired,High School,Married,Tier-2,35000,3,Medium,695,42,15,4,0.536,0,0
+QMF00407,38,Female,513000,Business,High School,Single,Tier-2,199000,1,Low,702,27,59,1,0.36,0,1
+QMF00408,40,Male,470000,Business,Graduate,Married,Tier-1,302000,0,Medium,764,39,34,1,0.354,1,1
+QMF00409,49,Female,411000,Self-Employed,Post-Graduate,Single,Tier-1,110000,1,Low,762,25,54,4,0.515,0,0
+QMF00410,47,Male,180000,Business,Post-Graduate,Married,Tier-1,166000,4,High,636,38,73,5,0.797,1,1
+QMF00411,58,Female,309000,Business,Graduate,Married,Tier-3,253000,2,High,715,24,105,2,0.465,0,0
+QMF00412,47,Female,216000,Salaried,High School,Single,Tier-1,45000,3,Low,710,24,35,1,0.55,0,0
+QMF00413,44,Male,705000,Self-Employed,Graduate,Married,Tier-1,53000,3,Medium,670,60,2,5,0.797,0,1
+QMF00414,30,Male,509000,Business,Graduate,Single,Tier-1,0,4,Low,709,50,98,5,0.401,0,0
+QMF00415,33,Male,282000,Salaried,Post-Graduate,Married,Tier-2,495000,2,Medium,681,66,1,1,0.364,0,1
+QMF00416,22,Male,298000,Business,Post-Graduate,Single,Tier-1,374000,2,Low,692,14,0,3,0.7,0,0
+QMF00417,22,Female,292000,Salaried,Post-Graduate,Married,Tier-3,217000,0,Medium,571,53,97,7,0.747,0,1
+QMF00418,55,Male,289000,Salaried,Post-Graduate,Married,Tier-3,12000,0,Medium,606,32,76,3,0.612,0,0
+QMF00419,53,Male,180000,Business,Post-Graduate,Married,Tier-2,89000,1,Low,745,48,59,2,0.574,0,1
+QMF00420,46,Male,180000,Salaried,Post-Graduate,Married,Tier-2,16000,0,Medium,583,39,43,2,0.526,0,1
+QMF00421,61,Female,368000,Salaried,Graduate,Married,Tier-1,2000,4,Low,717,40,37,5,0.496,1,1
+QMF00422,22,Female,654000,Salaried,Graduate,Married,Tier-1,144000,1,Medium,673,42,25,2,0.271,0,0
+QMF00423,37,Male,269000,Business,Graduate,Married,Tier-2,486000,3,Low,762,8,36,2,0.24,0,0
+QMF00424,60,Male,428000,Salaried,Graduate,Married,Tier-1,350000,1,Medium,731,26,43,3,0.541,0,1
+QMF00425,26,Male,542000,Retired,Post-Graduate,Married,Tier-1,179000,1,High,643,12,3,2,0.491,0,0
+QMF00426,43,Female,210000,Salaried,Graduate,Single,Tier-2,15000,4,High,662,43,20,3,0.333,0,0
+QMF00427,50,Female,358000,Retired,Graduate,Married,Tier-1,48000,1,High,521,51,0,2,0.221,0,0
+QMF00428,24,Male,251000,Retired,Graduate,Single,Tier-3,58000,1,High,669,63,47,2,0.515,0,0
+QMF00429,33,Male,876000,Salaried,High School,Single,Tier-1,216000,0,Low,578,49,47,0,0.151,0,0
+QMF00430,47,Male,855000,Salaried,High School,Single,Tier-2,243000,2,Low,662,27,98,7,0.24,0,1
+QMF00431,37,Female,210000,Salaried,Post-Graduate,Married,Tier-2,73000,1,Medium,628,9,56,5,0.143,1,1
+QMF00432,58,Male,448000,Self-Employed,High School,Single,Tier-2,81000,2,High,609,39,28,1,0.105,0,0
+QMF00433,43,Male,652000,Salaried,Post-Graduate,Single,Tier-1,7000,2,High,775,65,38,1,0.301,0,1
+QMF00434,50,Male,578000,Salaried,Post-Graduate,Single,Tier-2,51000,2,Low,577,71,59,2,0.227,0,0
+QMF00435,35,Male,379000,Salaried,Graduate,Married,Tier-3,90000,2,Medium,602,71,51,3,0.897,0,1
+QMF00436,49,Female,743000,Salaried,Post-Graduate,Single,Tier-2,19000,1,Low,624,7,62,2,0.714,0,1
+QMF00437,26,Male,220000,Salaried,Post-Graduate,Single,Tier-1,91000,1,Medium,641,72,56,3,0.864,0,1
+QMF00438,51,Female,307000,Self-Employed,Post-Graduate,Married,Tier-2,288000,3,Medium,609,67,37,4,0.104,0,0
+QMF00439,26,Female,224000,Retired,Post-Graduate,Married,Tier-2,131000,1,Low,651,10,28,3,0.354,0,0
+QMF00440,33,Male,557000,Salaried,Post-Graduate,Married,Tier-1,12000,1,Medium,704,71,27,9,0.371,0,1
+QMF00441,37,Male,263000,Self-Employed,Post-Graduate,Single,Tier-3,32000,1,Medium,733,53,17,3,0.138,0,0
+QMF00442,47,Female,330000,Salaried,High School,Married,Tier-1,97000,3,Medium,729,57,12,4,0.674,0,1
+QMF00443,47,Male,509000,Business,Graduate,Single,Tier-2,67000,1,Low,527,27,100,1,0.104,0,0
+QMF00444,42,Male,532000,Retired,Post-Graduate,Married,Tier-2,67000,1,High,710,54,48,4,0.435,0,0
+QMF00445,60,Female,220000,Business,Graduate,Married,Tier-2,113000,2,Medium,715,4,40,1,0.323,0,0
+QMF00446,57,Male,648000,Retired,Post-Graduate,Married,Tier-3,132000,2,High,627,23,30,4,0.237,1,1
+QMF00447,54,Male,465000,Salaried,Post-Graduate,Married,Tier-3,239000,0,High,813,48,57,2,0.065,1,1
+QMF00448,51,Male,200000,Business,Graduate,Single,Tier-1,63000,1,Low,767,42,81,5,0.43,0,0
+QMF00449,58,Female,180000,Business,Post-Graduate,Single,Tier-1,246000,2,Low,665,3,66,3,0.571,1,1
+QMF00450,44,Male,359000,Salaried,Graduate,Single,Tier-1,62000,4,Medium,632,3,72,4,0.229,0,0
+QMF00451,31,Male,578000,Retired,Post-Graduate,Married,Tier-2,9000,2,Low,812,28,27,1,0.599,0,1
+QMF00452,26,Male,586000,Salaried,Graduate,Single,Tier-3,121000,1,High,678,63,44,2,0.649,0,1
+QMF00453,57,Male,441000,Self-Employed,Post-Graduate,Married,Tier-1,133000,0,Medium,686,31,27,3,0.314,0,1
+QMF00454,55,Male,372000,Salaried,Graduate,Married,Tier-1,409000,3,High,685,10,48,6,0.489,0,0
+QMF00455,52,Male,480000,Salaried,Post-Graduate,Married,Tier-1,194000,3,Low,864,49,83,5,0.43,0,0
+QMF00456,31,Female,226000,Self-Employed,Graduate,Single,Tier-3,375000,0,Low,662,21,58,4,0.34,0,0
+QMF00457,40,Male,916000,Self-Employed,High School,Single,Tier-1,358000,0,Medium,678,53,93,3,0.591,1,1
+QMF00458,53,Male,910000,Salaried,High School,Single,Tier-1,139000,2,Low,613,54,36,5,0.325,0,1
+QMF00459,22,Male,459000,Salaried,High School,Married,Tier-2,113000,1,Medium,648,57,20,3,0.619,1,0
+QMF00460,26,Male,404000,Business,Post-Graduate,Single,Tier-3,122000,1,High,597,20,60,3,0.128,0,0
+QMF00461,25,Male,289000,Salaried,Post-Graduate,Married,Tier-2,575000,0,Medium,615,49,48,5,0.171,0,0
+QMF00462,37,Female,484000,Salaried,Graduate,Married,Tier-2,223000,1,Medium,535,7,54,5,0.642,0,1
+QMF00463,45,Male,248000,Retired,Graduate,Married,Tier-1,17000,1,Low,750,29,50,3,0.308,0,1
+QMF00464,37,Male,180000,Business,Graduate,Married,Tier-2,226000,2,Low,692,48,30,4,0.359,0,0
+QMF00465,23,Male,180000,Salaried,Post-Graduate,Married,Tier-2,28000,1,High,699,13,50,2,0.497,0,1
+QMF00466,49,Female,233000,Business,High School,Married,Tier-3,89000,1,High,675,3,74,2,0.084,0,0
+QMF00467,53,Female,395000,Business,Graduate,Single,Tier-1,35000,1,Medium,685,2,77,1,0.304,0,0
+QMF00468,48,Female,435000,Business,High School,Single,Tier-1,175000,1,High,809,16,30,3,0.458,0,1
+QMF00469,41,Male,277000,Salaried,Post-Graduate,Married,Tier-1,315000,0,Medium,618,6,51,4,0.053,0,1
+QMF00470,45,Female,392000,Salaried,Post-Graduate,Single,Tier-1,51000,1,Low,702,45,89,1,0.303,1,1
+QMF00471,33,Male,312000,Salaried,Graduate,Married,Tier-3,13000,2,Low,701,71,30,3,0.189,0,0
+QMF00472,56,Male,209000,Salaried,Graduate,Married,Tier-1,53000,0,High,771,5,25,5,0.106,1,1
+QMF00473,54,Male,352000,Self-Employed,Post-Graduate,Single,Tier-2,167000,0,Low,715,56,68,1,0.401,0,0
+QMF00474,54,Male,566000,Salaried,Post-Graduate,Married,Tier-1,60000,0,Medium,719,71,63,4,0.13,0,0
+QMF00475,64,Female,214000,Self-Employed,Graduate,Married,Tier-1,49000,1,Medium,579,32,19,1,0.351,0,1
+QMF00476,58,Female,214000,Salaried,Post-Graduate,Married,Tier-2,31000,3,Medium,615,49,3,9,0.322,0,0
+QMF00477,33,Male,201000,Salaried,High School,Married,Tier-1,103000,0,Medium,586,13,51,2,0.619,1,0
+QMF00478,24,Female,180000,Business,Post-Graduate,Single,Tier-1,48000,4,Low,481,30,32,0,0.096,0,0
+QMF00479,22,Female,278000,Salaried,High School,Married,Tier-2,197000,0,Low,711,25,0,2,0.559,1,1
+QMF00480,54,Female,536000,Salaried,Graduate,Married,Tier-2,12000,3,Medium,659,60,24,3,0.484,1,0
+QMF00481,61,Female,399000,Business,Graduate,Married,Tier-1,164000,1,Medium,711,59,63,1,0.339,0,1
+QMF00482,31,Female,330000,Salaried,Post-Graduate,Single,Tier-3,41000,2,Medium,682,28,40,2,0.47,0,1
+QMF00483,64,Female,389000,Self-Employed,Graduate,Married,Tier-2,101000,1,Medium,699,58,91,4,0.363,0,0
+QMF00484,65,Female,277000,Business,Graduate,Single,Tier-2,51000,1,Low,787,20,0,1,0.47,0,1
+QMF00485,50,Male,180000,Salaried,Graduate,Married,Tier-1,192000,3,High,680,34,85,2,0.084,0,0
+QMF00486,34,Male,557000,Business,Graduate,Married,Tier-1,436000,2,Medium,733,5,34,2,0.324,0,1
+QMF00487,33,Female,653000,Salaried,Graduate,Married,Tier-1,373000,1,Low,655,60,30,0,0.252,0,1
+QMF00488,52,Male,243000,Salaried,Graduate,Married,Tier-1,131000,0,Medium,745,43,0,2,0.571,0,1
+QMF00489,23,Female,333000,Salaried,Graduate,Married,Tier-1,93000,0,High,580,57,58,4,0.328,0,0
+QMF00490,56,Male,318000,Salaried,Graduate,Married,Tier-3,256000,3,High,532,57,0,5,0.406,1,1
+QMF00491,44,Male,439000,Retired,Post-Graduate,Single,Tier-2,172000,1,Low,848,54,69,3,0.482,0,1
+QMF00492,38,Male,918000,Salaried,Post-Graduate,Married,Tier-1,30000,1,Medium,826,45,0,6,0.38,0,1
+QMF00493,47,Male,685000,Salaried,Post-Graduate,Single,Tier-2,258000,2,Low,524,37,4,2,0.831,0,1
+QMF00494,29,Female,294000,Salaried,Graduate,Married,Tier-1,84000,3,Low,677,48,9,3,0.587,1,1
+QMF00495,50,Female,488000,Self-Employed,Graduate,Married,Tier-2,31000,2,Medium,691,54,23,4,0.327,0,0
+QMF00496,47,Female,722000,Salaried,Post-Graduate,Married,Tier-2,50000,2,Medium,737,48,73,5,0.097,1,1
+QMF00497,31,Female,453000,Salaried,Post-Graduate,Single,Tier-2,47000,2,Medium,819,6,90,1,0.478,1,0
+QMF00498,47,Male,361000,Self-Employed,Post-Graduate,Married,Tier-3,110000,1,Low,595,34,26,3,0.372,1,1
+QMF00499,55,Male,463000,Salaried,Graduate,Married,Tier-1,40000,1,Low,599,63,43,1,0.554,0,1
+QMF00500,62,Female,246000,Salaried,High School,Married,Tier-2,20000,3,Medium,679,48,59,4,0.642,0,0
+QMF00501,28,Male,267000,Salaried,Graduate,Married,Tier-3,20000,1,Low,602,23,35,4,0.345,1,1
+QMF00502,25,Male,202000,Salaried,Graduate,Married,Tier-2,131000,3,Low,462,13,58,3,0.298,1,0
+QMF00503,32,Male,429000,Business,Post-Graduate,Married,Tier-2,199000,0,Low,661,47,44,1,0.48,1,1
+QMF00504,50,Male,337000,Salaried,Post-Graduate,Married,Tier-3,58000,0,Medium,748,44,37,3,0.473,0,0
+QMF00505,57,Female,230000,Salaried,Graduate,Married,Tier-1,5000,3,Low,678,32,2,0,0.34,0,0
+QMF00506,46,Female,331000,Salaried,Graduate,Single,Tier-3,20000,2,Medium,729,26,49,2,0.317,0,0
+QMF00507,42,Male,469000,Business,Post-Graduate,Married,Tier-1,369000,1,Low,718,53,73,2,0.478,1,0
+QMF00508,57,Female,1038000,Self-Employed,Graduate,Married,Tier-2,102000,2,Low,597,14,21,8,0.186,1,1
+QMF00509,31,Female,632000,Salaried,Graduate,Married,Tier-3,91000,2,Medium,685,52,0,0,0.386,0,1
+QMF00510,58,Male,180000,Business,Graduate,Single,Tier-1,6000,1,Low,557,36,35,0,0.323,0,1
+QMF00511,30,Female,413000,Self-Employed,Post-Graduate,Married,Tier-2,196000,0,Medium,639,8,90,4,0.549,0,0
+QMF00512,45,Female,795000,Business,Graduate,Married,Tier-1,113000,3,Low,684,40,81,1,0.363,0,0
+QMF00513,56,Male,180000,Business,High School,Married,Tier-3,34000,3,Medium,679,22,27,0,0.506,0,0
+QMF00514,56,Male,491000,Salaried,Post-Graduate,Married,Tier-3,17000,0,Low,576,16,58,4,0.208,0,0
+QMF00515,57,Male,318000,Salaried,High School,Married,Tier-2,73000,3,Low,592,60,63,5,0.179,0,1
+QMF00516,39,Male,682000,Salaried,High School,Single,Tier-2,272000,3,Medium,703,60,89,4,0.72,0,1
+QMF00517,60,Male,452000,Salaried,Graduate,Single,Tier-3,301000,1,High,746,10,0,3,0.115,1,0
+QMF00518,53,Female,223000,Retired,Graduate,Married,Tier-1,139000,2,Low,663,25,12,5,0.285,1,0
+QMF00519,45,Male,324000,Salaried,Graduate,Married,Tier-1,195000,1,Medium,659,31,0,3,0.651,1,0
+QMF00520,44,Male,335000,Salaried,Graduate,Married,Tier-2,18000,1,Medium,754,21,24,1,0.756,1,1
+QMF00521,53,Female,338000,Business,Post-Graduate,Married,Tier-1,133000,2,Medium,618,33,76,1,0.477,0,0
+QMF00522,58,Female,670000,Salaried,Graduate,Married,Tier-1,165000,3,High,818,31,28,0,0.22,1,1
+QMF00523,33,Male,228000,Salaried,Graduate,Married,Tier-1,34000,2,Low,572,21,5,5,0.677,1,0
+QMF00524,34,Male,629000,Salaried,Graduate,Single,Tier-1,318000,1,High,763,36,51,3,0.776,0,1
+QMF00525,44,Male,307000,Salaried,High School,Married,Tier-3,33000,0,Medium,723,65,52,2,0.073,0,0
+QMF00526,46,Female,410000,Business,Graduate,Married,Tier-2,56000,0,Low,872,4,14,2,0.235,1,0
+QMF00527,56,Male,377000,Salaried,Graduate,Married,Tier-2,145000,1,High,590,68,29,4,0.323,1,1
+QMF00528,62,Male,358000,Salaried,Graduate,Married,Tier-1,153000,0,Medium,493,4,49,3,0.47,0,1
+QMF00529,51,Female,360000,Salaried,High School,Married,Tier-1,180000,2,Medium,779,9,67,2,0.625,0,1
+QMF00530,38,Male,807000,Salaried,Post-Graduate,Single,Tier-1,18000,1,Medium,562,30,25,3,0.328,1,0
+QMF00531,41,Female,576000,Self-Employed,Graduate,Married,Tier-2,284000,2,Medium,729,45,21,3,0.222,1,0
+QMF00532,46,Female,297000,Salaried,Graduate,Single,Tier-2,114000,1,Low,774,4,102,2,0.284,0,1
+QMF00533,43,Male,865000,Salaried,Graduate,Single,Tier-3,96000,2,Medium,710,69,36,3,0.722,0,1
+QMF00534,34,Female,421000,Retired,Graduate,Single,Tier-2,595000,1,Low,698,23,52,2,0.144,0,0
+QMF00535,40,Male,441000,Self-Employed,High School,Married,Tier-2,202000,0,High,712,16,64,2,0.434,0,0
+QMF00536,57,Female,229000,Salaried,Post-Graduate,Married,Tier-2,19000,0,High,746,22,0,3,0.12,1,0
+QMF00537,33,Male,276000,Self-Employed,Graduate,Married,Tier-3,212000,1,Medium,726,72,44,4,0.269,0,0
+QMF00538,62,Female,248000,Business,High School,Married,Tier-2,15000,3,Medium,582,48,0,5,0.315,0,0
+QMF00539,40,Male,380000,Self-Employed,Graduate,Married,Tier-1,4000,0,Low,825,62,41,4,0.305,1,0
+QMF00540,33,Female,515000,Salaried,Post-Graduate,Single,Tier-2,78000,2,Low,684,60,86,3,0.555,0,0
+QMF00541,30,Female,443000,Retired,High School,Married,Tier-2,757000,4,High,721,5,15,5,0.393,1,1
+QMF00542,28,Male,868000,Salaried,Graduate,Married,Tier-2,29000,2,Low,736,7,0,2,0.354,0,0
+QMF00543,49,Female,222000,Salaried,Post-Graduate,Married,Tier-1,168000,0,Medium,772,51,101,4,0.193,1,1
+QMF00544,35,Male,386000,Salaried,Graduate,Married,Tier-3,29000,3,High,764,65,10,3,0.705,1,1
+QMF00545,52,Male,180000,Salaried,Graduate,Married,Tier-3,194000,0,High,690,9,0,4,0.265,0,1
+QMF00546,40,Male,218000,Business,Graduate,Single,Tier-1,106000,1,Medium,685,45,93,4,0.515,1,0
+QMF00547,37,Male,726000,Salaried,Graduate,Single,Tier-3,171000,3,Medium,712,47,9,1,0.415,1,0
+QMF00548,26,Male,281000,Salaried,Post-Graduate,Single,Tier-1,34000,2,Medium,768,67,94,2,0.5,1,0
+QMF00549,56,Female,233000,Business,High School,Single,Tier-1,205000,1,High,590,24,53,4,0.412,0,1
+QMF00550,33,Male,180000,Salaried,Post-Graduate,Single,Tier-1,815000,1,Medium,731,10,83,3,0.227,0,1
+QMF00551,46,Female,232000,Salaried,High School,Married,Tier-1,164000,1,Medium,609,48,50,3,0.183,0,1
+QMF00552,42,Male,324000,Salaried,Post-Graduate,Single,Tier-3,102000,1,Low,828,35,77,6,0.837,0,0
+QMF00553,57,Female,180000,Salaried,Graduate,Married,Tier-1,385000,1,Low,709,54,17,4,0.1,0,1
+QMF00554,44,Female,313000,Salaried,Graduate,Married,Tier-1,2000,4,Medium,646,71,26,6,0.289,0,0
+QMF00555,37,Male,729000,Self-Employed,Graduate,Single,Tier-1,196000,4,High,714,16,0,4,0.235,1,1
+QMF00556,60,Female,245000,Salaried,Post-Graduate,Married,Tier-1,329000,3,High,680,53,74,1,0.266,0,0
+QMF00557,63,Male,216000,Salaried,High School,Married,Tier-1,10000,1,High,667,40,57,4,0.516,1,1
+QMF00558,60,Female,195000,Business,Graduate,Married,Tier-2,90000,2,Medium,535,20,14,3,0.73,1,1
+QMF00559,35,Male,193000,Self-Employed,Post-Graduate,Married,Tier-1,34000,3,Medium,598,69,0,5,0.719,0,0
+QMF00560,52,Female,486000,Salaried,Post-Graduate,Single,Tier-3,125000,3,High,668,45,53,3,0.455,0,0
+QMF00561,26,Male,372000,Salaried,Post-Graduate,Married,Tier-3,157000,1,Medium,544,6,95,2,0.353,1,0
+QMF00562,56,Male,613000,Salaried,Graduate,Married,Tier-1,54000,0,Low,633,69,40,1,0.044,0,1
+QMF00563,44,Female,1100000,Salaried,Graduate,Married,Tier-3,92000,0,Medium,640,49,25,2,0.26,0,1
+QMF00564,50,Male,180000,Salaried,Graduate,Married,Tier-1,49000,2,High,617,39,16,5,0.309,1,1
+QMF00565,64,Male,446000,Salaried,Graduate,Single,Tier-1,69000,2,Low,741,2,82,2,0.115,0,1
+QMF00566,32,Male,196000,Retired,Graduate,Married,Tier-1,26000,3,High,609,39,21,5,0.098,1,0
+QMF00567,39,Male,559000,Salaried,Post-Graduate,Married,Tier-1,325000,1,Low,687,21,33,4,0.213,1,1
+QMF00568,33,Male,312000,Business,Graduate,Single,Tier-2,2000,0,Medium,651,40,76,1,0.534,0,1
+QMF00569,30,Male,368000,Salaried,High School,Single,Tier-2,321000,1,Medium,670,54,64,2,0.491,1,1
+QMF00570,31,Male,180000,Business,Post-Graduate,Single,Tier-1,127000,1,Medium,808,12,35,1,0.559,0,1
+QMF00571,65,Male,286000,Self-Employed,Post-Graduate,Single,Tier-2,60000,0,Medium,694,37,24,2,0.323,1,0
+QMF00572,38,Female,381000,Business,Graduate,Married,Tier-1,193000,2,High,709,38,88,2,0.301,1,0
+QMF00573,59,Male,764000,Salaried,Post-Graduate,Married,Tier-2,106000,1,Medium,618,15,11,3,0.846,0,1
+QMF00574,28,Male,234000,Self-Employed,High School,Married,Tier-1,104000,2,Low,730,7,38,3,0.791,0,0
+QMF00575,34,Male,268000,Salaried,Graduate,Single,Tier-1,18000,1,Medium,726,50,0,6,0.441,0,1
+QMF00576,61,Male,609000,Self-Employed,Graduate,Married,Tier-1,74000,1,Low,719,65,80,6,0.137,0,0
+QMF00577,63,Female,226000,Salaried,Post-Graduate,Married,Tier-1,41000,1,Low,583,67,30,2,0.583,1,0
+QMF00578,30,Male,679000,Salaried,Graduate,Married,Tier-2,2000,3,Medium,633,44,24,4,0.38,0,0
+QMF00579,48,Male,360000,Salaried,Graduate,Married,Tier-3,67000,0,High,794,31,64,5,0.192,0,0
+QMF00580,23,Female,428000,Salaried,Graduate,Married,Tier-1,14000,3,Medium,624,43,2,3,0.705,0,0
+QMF00581,26,Female,443000,Salaried,Graduate,Single,Tier-2,45000,1,Medium,805,48,64,3,0.606,0,0
+QMF00582,50,Male,258000,Salaried,Post-Graduate,Married,Tier-2,15000,3,Medium,636,61,34,3,0.209,1,0
+QMF00583,58,Female,449000,Retired,Graduate,Single,Tier-3,16000,3,Low,691,10,8,5,0.353,0,0
+QMF00584,59,Female,237000,Self-Employed,High School,Single,Tier-1,33000,1,High,665,29,15,2,0.55,1,1
+QMF00585,40,Male,275000,Retired,Post-Graduate,Married,Tier-2,1320000,2,Medium,612,48,24,3,0.352,1,1
+QMF00586,29,Female,493000,Salaried,Post-Graduate,Married,Tier-3,0,0,High,613,62,31,3,0.055,0,1
+QMF00587,22,Female,426000,Business,Post-Graduate,Married,Tier-2,153000,3,Low,623,13,9,3,0.237,0,0
+QMF00588,43,Male,348000,Business,High School,Married,Tier-1,23000,1,Low,691,44,53,2,0.118,0,0
+QMF00589,38,Male,181000,Self-Employed,Graduate,Single,Tier-1,380000,1,High,751,47,8,3,0.462,0,1
+QMF00590,28,Male,208000,Self-Employed,High School,Married,Tier-1,15000,2,Medium,686,64,0,2,0.486,0,0
+QMF00591,46,Female,422000,Salaried,Post-Graduate,Married,Tier-2,465000,3,Low,677,53,102,5,0.469,1,0
+QMF00592,25,Female,542000,Business,Post-Graduate,Married,Tier-2,142000,0,Low,776,44,50,4,0.666,1,1
+QMF00593,57,Female,197000,Salaried,Post-Graduate,Single,Tier-1,0,2,High,683,28,105,4,0.362,0,0
+QMF00594,27,Male,228000,Salaried,Graduate,Single,Tier-2,337000,1,Medium,636,2,13,2,0.775,0,0
+QMF00595,52,Female,390000,Salaried,Graduate,Single,Tier-2,111000,1,Medium,600,57,59,3,0.348,0,0
+QMF00596,40,Female,385000,Retired,Post-Graduate,Single,Tier-2,46000,2,Low,781,57,71,5,0.316,1,1
+QMF00597,65,Male,180000,Business,Graduate,Married,Tier-2,219000,1,Medium,653,34,39,2,0.15,0,1
+QMF00598,60,Male,396000,Retired,Post-Graduate,Single,Tier-3,392000,1,High,633,58,1,5,0.29,0,0
+QMF00599,48,Female,261000,Self-Employed,Graduate,Married,Tier-1,99000,3,Low,626,52,37,0,0.517,0,1
+QMF00600,31,Male,893000,Salaried,Graduate,Single,Tier-3,57000,0,Medium,777,29,63,2,0.668,1,1
+QMF00601,47,Female,415000,Salaried,Graduate,Single,Tier-1,233000,2,High,634,35,62,0,0.501,0,1
+QMF00602,40,Male,457000,Salaried,Graduate,Married,Tier-1,172000,0,Low,759,48,44,1,0.228,0,0
+QMF00603,60,Male,463000,Salaried,Post-Graduate,Single,Tier-1,329000,0,Medium,661,33,71,3,0.512,0,0
+QMF00604,24,Male,186000,Salaried,Graduate,Single,Tier-1,177000,0,Medium,583,9,70,4,0.274,0,0
+QMF00605,34,Male,1055000,Salaried,High School,Married,Tier-1,42000,2,Medium,653,48,29,3,0.371,1,1
+QMF00606,49,Female,180000,Salaried,Post-Graduate,Single,Tier-1,402000,2,Medium,677,67,0,6,0.181,0,1
+QMF00607,41,Male,561000,Retired,Graduate,Married,Tier-3,17000,0,Medium,670,36,50,3,0.359,0,0
+QMF00608,49,Female,509000,Salaried,Post-Graduate,Married,Tier-1,47000,0,Medium,668,71,22,3,0.336,1,1
+QMF00609,29,Male,279000,Business,High School,Married,Tier-2,110000,3,Medium,654,44,49,5,0.126,0,1
+QMF00610,62,Female,523000,Self-Employed,Post-Graduate,Married,Tier-1,125000,0,Medium,617,60,85,5,0.85,0,0
+QMF00611,60,Male,304000,Salaried,Graduate,Single,Tier-3,2000,3,Low,680,63,58,1,0.438,1,0
+QMF00612,22,Female,250000,Salaried,High School,Single,Tier-2,228000,0,Medium,723,5,83,3,0.274,1,0
+QMF00613,24,Female,469000,Salaried,Post-Graduate,Single,Tier-1,67000,2,High,562,40,14,3,0.462,0,1
+QMF00614,34,Male,208000,Salaried,Graduate,Married,Tier-2,78000,1,Medium,783,19,77,4,0.474,1,1
+QMF00615,49,Male,320000,Self-Employed,Graduate,Single,Tier-2,249000,3,Medium,384,47,95,6,0.631,1,0
+QMF00616,46,Female,261000,Salaried,Post-Graduate,Married,Tier-2,72000,2,Medium,686,65,46,4,0.447,0,0
+QMF00617,54,Female,301000,Salaried,Graduate,Single,Tier-2,7000,1,High,717,67,114,5,0.341,0,0
+QMF00618,59,Male,460000,Salaried,Post-Graduate,Married,Tier-2,29000,0,High,631,18,19,4,0.185,0,0
+QMF00619,27,Female,261000,Retired,Graduate,Married,Tier-2,468000,2,Low,509,50,25,3,0.212,1,0
+QMF00620,65,Female,326000,Business,High School,Single,Tier-1,11000,2,Medium,672,30,64,2,0.386,1,1
+QMF00621,53,Female,275000,Business,Post-Graduate,Married,Tier-1,66000,0,Medium,693,66,46,3,0.195,0,1
+QMF00622,42,Female,801000,Salaried,Graduate,Married,Tier-3,105000,0,Medium,588,5,22,2,0.178,0,1
+QMF00623,37,Female,437000,Business,Graduate,Married,Tier-1,102000,3,Low,613,42,63,4,0.113,0,0
+QMF00624,42,Male,409000,Business,Post-Graduate,Married,Tier-2,1000,1,High,757,5,55,3,0.358,0,1
+QMF00625,32,Male,527000,Self-Employed,Post-Graduate,Married,Tier-1,104000,2,Low,689,50,27,2,0.652,0,0
+QMF00626,58,Male,261000,Retired,Post-Graduate,Married,Tier-2,73000,1,Medium,559,58,50,4,0.494,0,1
+QMF00627,57,Female,581000,Salaried,Graduate,Married,Tier-3,537000,3,Medium,715,8,67,1,0.75,0,1
+QMF00628,56,Female,438000,Retired,Graduate,Married,Tier-1,26000,3,Low,605,31,26,3,0.775,0,0
+QMF00629,40,Male,180000,Retired,Graduate,Single,Tier-1,66000,4,High,618,12,60,3,0.255,1,0
+QMF00630,41,Female,180000,Salaried,Post-Graduate,Married,Tier-2,82000,0,High,695,21,18,3,0.234,1,1
+QMF00631,39,Female,264000,Salaried,Graduate,Single,Tier-3,74000,3,Medium,688,62,24,4,0.336,1,0
+QMF00632,62,Male,180000,Retired,Graduate,Single,Tier-1,164000,1,Medium,647,33,78,0,0.242,0,1
+QMF00633,35,Male,318000,Salaried,Post-Graduate,Married,Tier-1,36000,2,Low,639,26,63,2,0.572,1,1
+QMF00634,36,Male,207000,Salaried,High School,Single,Tier-3,37000,1,Medium,659,40,0,2,0.489,1,0
+QMF00635,52,Male,343000,Retired,Graduate,Single,Tier-2,196000,0,Low,617,65,33,2,0.224,0,0
+QMF00636,22,Male,787000,Self-Employed,Graduate,Single,Tier-1,104000,4,Medium,767,59,59,5,0.19,0,0
+QMF00637,24,Male,353000,Salaried,Post-Graduate,Married,Tier-1,80000,0,High,554,15,49,2,0.437,1,1
+QMF00638,37,Male,307000,Self-Employed,Post-Graduate,Married,Tier-2,28000,2,Low,660,1,63,2,0.257,0,0
+QMF00639,44,Male,448000,Salaried,Graduate,Single,Tier-1,31000,2,High,563,11,48,2,0.527,0,1
+QMF00640,32,Male,247000,Salaried,High School,Single,Tier-1,2000,2,Low,754,55,41,3,0.696,0,0
+QMF00641,33,Male,576000,Salaried,Post-Graduate,Single,Tier-3,14000,0,High,660,2,40,3,0.703,0,1
+QMF00642,31,Female,476000,Self-Employed,Graduate,Married,Tier-1,122000,1,Low,595,65,77,5,0.452,0,0
+QMF00643,53,Male,370000,Salaried,Graduate,Single,Tier-2,334000,3,Medium,734,44,65,3,0.492,0,0
+QMF00644,37,Female,394000,Business,Post-Graduate,Single,Tier-1,51000,1,Low,496,16,57,2,0.461,0,1
+QMF00645,29,Female,1113000,Self-Employed,Post-Graduate,Married,Tier-2,60000,1,High,702,22,47,6,0.556,0,1
+QMF00646,59,Male,608000,Salaried,Graduate,Married,Tier-2,18000,1,Medium,772,18,28,5,0.585,1,1
+QMF00647,33,Male,1214000,Self-Employed,Post-Graduate,Married,Tier-1,74000,1,Low,694,47,35,4,0.266,1,1
+QMF00648,45,Male,485000,Salaried,Post-Graduate,Single,Tier-2,6000,3,Medium,639,30,76,3,0.236,0,0
+QMF00649,49,Female,180000,Self-Employed,Graduate,Single,Tier-1,374000,1,Medium,580,10,74,3,0.27,0,0
+QMF00650,29,Female,314000,Salaried,Post-Graduate,Single,Tier-3,168000,2,Medium,766,58,25,1,0.499,0,0
+QMF00651,49,Male,180000,Retired,High School,Married,Tier-3,702000,1,High,754,62,47,2,0.567,0,1
+QMF00652,57,Male,484000,Salaried,Graduate,Married,Tier-1,322000,1,Medium,628,6,59,5,0.48,1,1
+QMF00653,47,Male,546000,Salaried,Graduate,Married,Tier-1,96000,0,Low,630,67,57,2,0.41,0,0
+QMF00654,29,Male,223000,Self-Employed,Graduate,Married,Tier-1,110000,1,Low,774,41,57,5,0.365,0,1
+QMF00655,49,Female,253000,Salaried,High School,Single,Tier-2,32000,1,Medium,722,43,11,5,0.293,0,0
+QMF00656,49,Male,393000,Salaried,High School,Single,Tier-1,93000,2,Medium,537,18,9,2,0.655,0,0
+QMF00657,58,Female,187000,Self-Employed,Graduate,Single,Tier-1,350000,1,Medium,664,58,80,5,0.279,0,1
+QMF00658,62,Male,180000,Self-Employed,Post-Graduate,Single,Tier-1,8000,1,Low,661,60,90,5,0.479,0,0
+QMF00659,57,Female,716000,Self-Employed,Post-Graduate,Married,Tier-1,299000,1,Medium,699,27,0,2,0.377,1,1
+QMF00660,48,Male,386000,Salaried,Post-Graduate,Married,Tier-2,63000,0,High,680,68,44,4,0.402,0,1
+QMF00661,38,Male,266000,Self-Employed,Graduate,Single,Tier-1,345000,3,Low,638,22,69,1,0.475,0,0
+QMF00662,30,Female,180000,Salaried,Graduate,Single,Tier-2,424000,1,Medium,694,24,0,3,0.219,0,0
+QMF00663,54,Male,579000,Self-Employed,Graduate,Married,Tier-1,167000,0,Medium,644,40,12,6,0.682,0,1
+QMF00664,41,Female,249000,Self-Employed,Post-Graduate,Married,Tier-1,164000,0,Medium,900,66,42,4,0.149,0,1
+QMF00665,34,Female,1008000,Salaried,Graduate,Married,Tier-2,90000,4,Low,689,40,27,2,0.38,0,0
+QMF00666,49,Female,581000,Salaried,High School,Married,Tier-3,271000,0,Medium,678,6,51,6,0.589,1,1
+QMF00667,50,Female,232000,Salaried,Graduate,Married,Tier-2,489000,3,High,827,18,89,5,0.424,0,0
+QMF00668,34,Female,244000,Salaried,Graduate,Married,Tier-1,224000,0,Low,570,30,19,4,0.381,0,1
+QMF00669,56,Female,934000,Salaried,Post-Graduate,Married,Tier-1,146000,3,Medium,671,21,46,7,0.234,0,0
+QMF00670,27,Female,346000,Salaried,Post-Graduate,Married,Tier-3,140000,3,Low,604,62,34,5,0.5,0,0
+QMF00671,39,Female,273000,Self-Employed,Graduate,Single,Tier-1,284000,2,Medium,730,10,49,4,0.159,0,0
+QMF00672,26,Male,368000,Salaried,Graduate,Married,Tier-1,117000,0,Medium,640,13,45,3,0.123,0,0
+QMF00673,46,Male,272000,Retired,High School,Single,Tier-3,244000,1,Medium,726,9,124,2,0.86,0,1
+QMF00674,23,Male,414000,Salaried,Graduate,Single,Tier-3,107000,1,Low,720,68,89,3,0.442,0,0
+QMF00675,31,Male,347000,Business,Graduate,Single,Tier-3,10000,1,Medium,742,39,0,3,0.392,0,0
+QMF00676,51,Male,586000,Self-Employed,Post-Graduate,Married,Tier-3,73000,1,Medium,721,24,17,3,0.774,0,1
+QMF00677,26,Male,293000,Salaried,Graduate,Single,Tier-3,88000,0,Medium,662,34,21,3,0.436,0,0
+QMF00678,54,Male,223000,Salaried,Graduate,Married,Tier-1,23000,2,Medium,568,61,7,0,0.505,0,0
+QMF00679,22,Female,299000,Self-Employed,Graduate,Single,Tier-1,16000,1,Medium,760,41,3,6,0.131,0,0
+QMF00680,39,Female,298000,Salaried,Graduate,Single,Tier-2,115000,1,High,792,5,39,3,0.238,0,0
+QMF00681,53,Male,347000,Retired,Graduate,Married,Tier-2,13000,0,Medium,604,50,22,4,0.277,0,0
+QMF00682,32,Male,513000,Salaried,Graduate,Married,Tier-2,54000,4,Medium,738,4,18,0,0.295,0,0
+QMF00683,42,Female,498000,Retired,Graduate,Married,Tier-1,205000,1,High,586,51,105,1,0.146,0,0
+QMF00684,47,Male,701000,Salaried,Graduate,Married,Tier-1,500000,2,Low,696,52,24,2,0.479,1,1
+QMF00685,46,Female,232000,Self-Employed,Post-Graduate,Married,Tier-2,190000,1,Low,712,39,31,1,0.203,1,1
+QMF00686,43,Male,449000,Self-Employed,Graduate,Married,Tier-1,736000,0,Medium,645,8,67,4,0.121,0,1
+QMF00687,48,Male,540000,Business,Graduate,Married,Tier-1,180000,1,Medium,687,45,31,2,0.27,0,0
+QMF00688,34,Female,250000,Salaried,High School,Married,Tier-2,52000,1,High,747,28,10,4,0.648,0,0
+QMF00689,54,Male,323000,Self-Employed,Post-Graduate,Married,Tier-2,167000,3,High,671,27,37,4,0.447,0,1
+QMF00690,55,Female,180000,Salaried,Graduate,Married,Tier-1,182000,2,Medium,625,65,105,2,0.36,0,1
+QMF00691,62,Female,596000,Business,High School,Married,Tier-2,70000,1,Medium,582,34,30,5,0.195,1,1
+QMF00692,56,Male,322000,Salaried,Graduate,Married,Tier-2,3000,4,Medium,648,62,17,5,0.825,0,1
+QMF00693,22,Female,564000,Business,Graduate,Married,Tier-1,182000,1,Low,586,62,57,1,0.392,1,1
+QMF00694,42,Female,406000,Salaried,Post-Graduate,Married,Tier-1,3000,4,Medium,649,38,35,5,0.301,0,0
+QMF00695,27,Male,327000,Business,Post-Graduate,Single,Tier-1,150000,4,Medium,642,26,127,2,0.426,0,1
+QMF00696,49,Female,180000,Business,Graduate,Married,Tier-1,27000,0,Medium,744,24,21,1,0.409,1,1
+QMF00697,38,Female,180000,Business,Graduate,Married,Tier-3,125000,1,Low,685,39,97,5,0.511,1,0
+QMF00698,26,Female,180000,Salaried,Post-Graduate,Married,Tier-1,105000,1,Low,883,21,79,6,0.329,1,0
+QMF00699,52,Female,266000,Salaried,Graduate,Single,Tier-2,2000,2,Low,518,47,33,1,0.501,1,0
+QMF00700,26,Male,1268000,Retired,High School,Single,Tier-1,68000,1,High,705,48,44,5,0.754,0,1
+QMF00701,59,Female,180000,Salaried,Graduate,Single,Tier-1,138000,4,Low,643,13,14,3,0.614,0,0
+QMF00702,24,Female,180000,Salaried,High School,Single,Tier-2,283000,2,High,603,3,28,0,0.257,0,0
+QMF00703,44,Female,615000,Self-Employed,Post-Graduate,Married,Tier-1,329000,0,Medium,677,32,33,1,0.178,0,1
+QMF00704,58,Female,1329000,Self-Employed,Post-Graduate,Married,Tier-2,99000,0,Medium,671,35,49,5,0.083,1,1
+QMF00705,58,Female,427000,Salaried,Post-Graduate,Married,Tier-1,196000,2,Medium,766,19,2,2,0.358,1,1
+QMF00706,31,Male,425000,Self-Employed,Post-Graduate,Single,Tier-1,57000,0,Medium,687,14,54,3,0.414,1,0
+QMF00707,31,Female,305000,Business,Graduate,Single,Tier-2,63000,2,Medium,624,48,40,3,0.393,0,0
+QMF00708,40,Male,180000,Salaried,Graduate,Single,Tier-1,32000,1,Medium,706,68,56,4,0.635,0,0
+QMF00709,38,Female,180000,Retired,Graduate,Married,Tier-3,124000,1,Medium,661,45,61,3,0.298,1,1
+QMF00710,42,Female,304000,Salaried,High School,Single,Tier-2,57000,0,Medium,589,19,38,4,0.261,0,0
+QMF00711,35,Male,274000,Salaried,Post-Graduate,Married,Tier-1,13000,2,Medium,660,64,59,3,0.688,0,0
+QMF00712,30,Male,340000,Salaried,Graduate,Married,Tier-1,173000,0,Low,698,66,42,7,0.71,1,0
+QMF00713,22,Male,572000,Salaried,Graduate,Married,Tier-2,185000,2,Medium,685,66,67,3,0.341,0,0
+QMF00714,34,Male,263000,Retired,Graduate,Married,Tier-2,67000,1,High,706,45,54,3,0.414,1,0
+QMF00715,25,Female,578000,Salaried,Post-Graduate,Married,Tier-1,12000,2,Low,637,67,50,1,0.295,0,1
+QMF00716,22,Female,264000,Salaried,Graduate,Single,Tier-3,83000,2,Low,705,69,41,3,0.832,0,0
+QMF00717,61,Female,641000,Salaried,Post-Graduate,Married,Tier-1,88000,0,Low,689,3,83,2,0.052,0,1
+QMF00718,53,Male,380000,Self-Employed,High School,Married,Tier-3,166000,2,Medium,690,38,57,5,0.457,0,1
+QMF00719,55,Female,285000,Self-Employed,Graduate,Married,Tier-1,57000,0,Low,682,42,5,6,0.22,0,1
+QMF00720,49,Male,376000,Salaried,Graduate,Married,Tier-3,172000,1,Medium,854,40,30,4,0.507,0,0
+QMF00721,52,Male,308000,Salaried,Graduate,Single,Tier-2,308000,0,Low,768,50,38,4,0.118,1,0
+QMF00722,29,Female,385000,Business,Graduate,Single,Tier-1,41000,2,Low,703,35,44,2,0.253,1,1
+QMF00723,60,Female,550000,Salaried,Graduate,Single,Tier-1,579000,3,Medium,615,24,50,3,0.318,0,0
+QMF00724,47,Male,345000,Salaried,Graduate,Single,Tier-1,73000,2,Low,656,17,16,5,0.639,0,1
+QMF00725,55,Male,296000,Salaried,High School,Single,Tier-3,47000,1,High,809,40,42,2,0.382,0,0
+QMF00726,24,Male,195000,Business,Graduate,Married,Tier-1,82000,2,Low,634,66,35,3,0.674,1,1
+QMF00727,33,Male,498000,Salaried,Graduate,Single,Tier-1,15000,0,Medium,666,44,77,3,0.387,0,1
+QMF00728,22,Female,439000,Salaried,High School,Married,Tier-2,20000,3,Low,662,23,15,3,0.438,0,0
+QMF00729,65,Male,189000,Salaried,Post-Graduate,Married,Tier-2,80000,0,Medium,709,6,44,4,0.616,0,1
+QMF00730,26,Male,574000,Retired,Graduate,Married,Tier-2,216000,4,High,645,66,24,3,0.384,0,0
+QMF00731,51,Male,187000,Salaried,Post-Graduate,Single,Tier-2,346000,2,High,694,21,100,0,0.368,0,1
+QMF00732,51,Male,638000,Business,Graduate,Single,Tier-1,164000,2,Low,646,35,82,3,0.434,1,0
+QMF00733,38,Male,529000,Salaried,Post-Graduate,Married,Tier-3,17000,2,Medium,785,29,0,2,0.577,1,1
+QMF00734,44,Male,456000,Salaried,Post-Graduate,Single,Tier-1,167000,1,Medium,625,7,21,6,0.446,0,0
+QMF00735,36,Male,294000,Business,Post-Graduate,Single,Tier-1,151000,2,Low,758,53,71,1,0.041,0,0
+QMF00736,58,Male,497000,Salaried,Graduate,Married,Tier-2,246000,0,Low,633,37,58,2,0.163,0,0
+QMF00737,42,Female,655000,Business,Post-Graduate,Married,Tier-2,262000,2,High,611,23,57,2,0.517,0,1
+QMF00738,35,Male,502000,Retired,Graduate,Single,Tier-1,304000,2,High,623,8,50,1,0.422,0,1
+QMF00739,23,Female,251000,Business,Graduate,Married,Tier-2,80000,3,High,543,48,73,4,0.471,0,1
+QMF00740,32,Male,420000,Salaried,Graduate,Single,Tier-1,180000,1,Medium,715,10,68,5,0.17,1,1
+QMF00741,60,Female,675000,Business,Graduate,Married,Tier-1,47000,0,Medium,586,24,36,2,0.676,0,1
+QMF00742,59,Female,1214000,Salaried,Graduate,Married,Tier-3,1098000,1,Low,651,47,9,4,0.243,0,1
+QMF00743,55,Female,324000,Business,Post-Graduate,Single,Tier-1,29000,2,Low,740,53,0,4,0.031,0,1
+QMF00744,59,Female,581000,Self-Employed,High School,Single,Tier-1,2000,0,Low,738,39,41,3,0.769,0,1
+QMF00745,55,Male,676000,Business,Graduate,Single,Tier-3,24000,1,Medium,565,67,0,4,0.509,0,1
+QMF00746,39,Male,232000,Salaried,Graduate,Single,Tier-3,224000,3,Medium,704,66,52,2,0.159,0,0
+QMF00747,51,Male,965000,Salaried,Graduate,Single,Tier-2,89000,2,High,771,6,35,2,0.728,0,1
+QMF00748,36,Female,202000,Salaried,Graduate,Single,Tier-2,89000,1,High,629,21,103,3,0.552,1,0
+QMF00749,48,Male,565000,Business,Graduate,Married,Tier-2,465000,1,High,721,36,55,3,0.238,0,0
+QMF00750,55,Male,428000,Salaried,High School,Married,Tier-3,378000,2,High,588,3,44,2,0.809,0,0
+QMF00751,59,Female,373000,Salaried,Graduate,Married,Tier-3,56000,1,Low,710,42,0,2,0.421,0,0
+QMF00752,54,Female,1470000,Business,Graduate,Single,Tier-1,35000,2,Medium,690,45,7,6,0.339,0,1
+QMF00753,45,Female,307000,Self-Employed,Graduate,Married,Tier-1,283000,0,Medium,732,44,65,2,0.764,0,1
+QMF00754,36,Female,304000,Salaried,High School,Married,Tier-2,355000,3,Low,727,33,35,4,0.123,1,0
+QMF00755,51,Female,753000,Self-Employed,Post-Graduate,Married,Tier-2,117000,1,High,571,60,121,2,0.118,0,1
+QMF00756,63,Male,551000,Salaried,High School,Single,Tier-2,149000,1,High,690,70,42,4,0.811,0,1
+QMF00757,38,Male,733000,Salaried,Post-Graduate,Single,Tier-2,45000,2,Low,796,26,50,3,0.316,0,0
+QMF00758,26,Male,386000,Salaried,Graduate,Married,Tier-3,242000,2,Low,505,21,5,0,0.689,0,1
+QMF00759,50,Male,431000,Salaried,Graduate,Single,Tier-1,150000,0,Medium,757,2,73,4,0.319,0,1
+QMF00760,25,Female,1030000,Salaried,Post-Graduate,Married,Tier-1,105000,2,Medium,808,47,17,2,0.192,1,1
+QMF00761,31,Male,229000,Self-Employed,Graduate,Married,Tier-1,9000,1,High,561,30,60,2,0.149,0,0
+QMF00762,38,Female,342000,Salaried,Post-Graduate,Single,Tier-1,371000,3,Low,626,27,69,3,0.077,1,0
+QMF00763,31,Male,562000,Salaried,Graduate,Married,Tier-1,143000,3,Low,721,71,47,6,0.272,0,0
+QMF00764,38,Female,325000,Retired,Graduate,Single,Tier-1,32000,1,Low,609,20,97,5,0.166,0,0
+QMF00765,41,Female,265000,Salaried,Post-Graduate,Married,Tier-2,140000,3,Low,789,50,26,5,0.223,0,1
+QMF00766,45,Male,509000,Salaried,Post-Graduate,Married,Tier-3,170000,1,Low,764,23,95,0,0.281,0,0
+QMF00767,26,Male,755000,Business,Post-Graduate,Single,Tier-2,112000,0,High,569,13,6,4,0.182,0,1
+QMF00768,55,Male,335000,Retired,Graduate,Married,Tier-2,190000,4,Medium,620,4,68,4,0.702,1,0
+QMF00769,27,Male,330000,Business,Post-Graduate,Single,Tier-1,131000,2,Medium,741,14,40,3,0.238,0,1
+QMF00770,23,Male,254000,Self-Employed,Graduate,Single,Tier-2,443000,1,Low,738,20,23,4,0.837,0,0
+QMF00771,34,Male,308000,Business,Graduate,Married,Tier-2,8000,1,Low,857,13,0,2,0.874,1,0
+QMF00772,64,Male,657000,Salaried,Graduate,Married,Tier-2,17000,1,High,609,3,37,2,0.446,0,1
+QMF00773,64,Female,379000,Business,Graduate,Married,Tier-1,29000,4,Medium,796,47,35,1,0.367,1,0
+QMF00774,32,Male,233000,Salaried,Graduate,Married,Tier-1,176000,0,Medium,606,3,50,5,0.579,0,1
+QMF00775,44,Female,418000,Retired,Graduate,Married,Tier-1,156000,1,Medium,720,1,66,2,0.077,0,0
+QMF00776,37,Male,646000,Salaried,Graduate,Married,Tier-2,334000,1,Low,751,24,20,0,0.617,0,1
+QMF00777,52,Female,266000,Self-Employed,Graduate,Married,Tier-3,198000,1,Medium,440,35,97,3,0.304,0,1
+QMF00778,32,Male,180000,Salaried,Graduate,Married,Tier-3,106000,1,Low,752,14,28,3,0.273,1,0
+QMF00779,37,Male,1209000,Business,Graduate,Single,Tier-2,721000,0,High,790,67,63,4,0.135,1,1
+QMF00780,29,Female,180000,Salaried,Graduate,Single,Tier-2,46000,0,Low,767,13,47,2,0.419,0,0
+QMF00781,25,Male,297000,Business,Post-Graduate,Single,Tier-3,269000,1,Medium,844,47,39,4,0.5,0,1
+QMF00782,61,Female,412000,Business,Graduate,Married,Tier-1,83000,3,Low,757,50,46,4,0.766,0,0
+QMF00783,25,Female,312000,Salaried,Graduate,Single,Tier-1,157000,0,Medium,637,26,16,0,0.12,0,1
+QMF00784,46,Male,348000,Business,Graduate,Married,Tier-3,195000,2,High,779,3,33,1,0.428,0,1
+QMF00785,24,Male,497000,Business,Post-Graduate,Single,Tier-1,151000,2,Medium,632,51,4,4,0.383,0,1
+QMF00786,53,Male,180000,Self-Employed,High School,Single,Tier-3,23000,3,Medium,686,40,28,1,0.705,1,0
+QMF00787,24,Female,180000,Salaried,Post-Graduate,Married,Tier-3,88000,3,High,746,68,30,3,0.236,0,0
+QMF00788,48,Male,371000,Salaried,Post-Graduate,Single,Tier-2,124000,1,Medium,715,36,70,2,0.203,1,1
+QMF00789,50,Male,290000,Salaried,Graduate,Single,Tier-3,284000,0,Low,788,51,35,3,0.172,0,1
+QMF00790,53,Male,389000,Salaried,Post-Graduate,Single,Tier-2,88000,1,Low,879,1,31,0,0.476,1,1
+QMF00791,40,Female,411000,Retired,Post-Graduate,Single,Tier-2,377000,1,Medium,589,33,51,0,0.787,0,1
+QMF00792,42,Male,180000,Salaried,Graduate,Married,Tier-1,87000,2,Medium,653,7,50,4,0.725,0,0
+QMF00793,26,Male,730000,Business,Graduate,Married,Tier-1,119000,2,Low,705,52,27,1,0.755,1,1
+QMF00794,39,Female,275000,Salaried,Graduate,Married,Tier-1,239000,3,Low,642,11,56,2,0.693,1,1
+QMF00795,49,Female,225000,Salaried,High School,Single,Tier-2,131000,0,High,673,27,39,1,0.112,1,0
+QMF00796,63,Male,406000,Business,Post-Graduate,Married,Tier-1,484000,3,Low,742,14,27,5,0.189,0,1
+QMF00797,43,Male,384000,Business,Post-Graduate,Single,Tier-1,162000,1,Medium,731,46,30,1,0.235,1,1
+QMF00798,42,Male,700000,Salaried,Graduate,Married,Tier-1,111000,1,Low,699,10,73,3,0.567,0,0
+QMF00799,27,Female,421000,Salaried,Graduate,Married,Tier-2,4000,1,High,691,24,31,2,0.572,0,0
+QMF00800,22,Male,685000,Salaried,Graduate,Married,Tier-3,80000,2,Low,662,61,52,3,0.19,0,0
