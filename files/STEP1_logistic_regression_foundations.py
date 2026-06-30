@@ -11,6 +11,7 @@ import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.preprocessing import StandardScaler
+from typing import Union
 
 DATA_PATH = '/mnt/user-data/outputs/quantum_mutual_fund_leads.csv'
 
@@ -18,12 +19,12 @@ DATA_PATH = '/mnt/user-data/outputs/quantum_mutual_fund_leads.csv'
 # ------------------------------------------------------------------
 # 1.1  THE SIGMOID FUNCTION
 # ------------------------------------------------------------------
-def sigmoid(z):
+def sigmoid(z: Union[float, np.ndarray]) -> np.ndarray:
     """sigma(z) = 1 / (1 + e^-z) -- squashes any real number into (0,1)"""
     return 1 / (1 + np.exp(-z))
 
 
-def logit(p):
+def logit(p: Union[float, np.ndarray]) -> np.ndarray:
     """logit(p) = ln(p / (1-p)) -- the inverse of sigmoid"""
     return np.log(p / (1 - p))
 
@@ -45,7 +46,8 @@ x_toy = np.concatenate([np.random.normal(2, 1, 20), np.random.normal(9, 1, 20)])
 y_toy = np.concatenate([np.zeros(20), np.ones(20)])
 
 lin_reg = LinearRegression().fit(x_toy, y_toy)
-preds = lin_reg.predict(np.array([[15], [-5]]))
+x_test = np.array([[15.0], [-5.0]])
+preds = lin_reg.predict(x_test)
 print(f"  LinearRegression predicts {preds[0]:.3f} for x=15   <- invalid probability (>1)")
 print(f"  LinearRegression predicts {preds[1]:.3f} for x=-5   <- invalid probability (<0)")
 
